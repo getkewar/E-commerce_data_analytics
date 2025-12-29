@@ -62,8 +62,9 @@ The Power BI report includes:
 ---
 
 ## 🧮 Sample SQL Queries
-  sql
-- Total Revenue
+
+```sql
+-- Total Revenue
 SELECT SUM(quantity * unit_price * (1 - discount)) AS total_revenue
 FROM ecommerce_sales;
 
@@ -75,10 +76,12 @@ ORDER BY total_quantity DESC;
 
 -- Yearly Revenue Trend
 SELECT YEAR(order_date) AS year,
-SUM(quantity * unit_price * (1 - discount)) AS revenue
+       SUM(quantity * unit_price * (1 - discount)) AS revenue
 FROM ecommerce_sales
 GROUP BY YEAR(order_date)
 ORDER BY year;
+
+---
 
 ## 📈 Insights Summary
 
