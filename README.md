@@ -81,22 +81,20 @@ FROM ecommerce_sales
 GROUP BY YEAR(order_date)
 ORDER BY year;
 
+
 ---
 
-## 📈 Insights Summary
+### 🧾 Insights Summary (Separate Section)
+```markdown
+## 🧠 Insights Summary
 
-Electronics & Clothing generate the highest revenue
+- Electronics & Clothing generate the highest revenue
+- UPI is the most preferred payment method
+- Mumbai & Bengaluru are top-performing cities in sales
+- Higher discount leads to a noticeable drop in profit margin
 
-UPI is the most preferred payment method
+## 💼 Business Recommendations
 
-Mumbai & Bengaluru are top-performing cities in sales
-
-Higher discount leads to a noticeable drop in profit margin
-
-## Business Recommendations
-
-Increase inventory stock for top-performing categories
-
-Boost regional advertising where revenue is low
-
-Optimize discount strategy to protect margins
+- Increase inventory stock for top-performing categories
+- Boost regional advertising where revenue is low
+- Optimize discount strategy to protect margins
