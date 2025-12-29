@@ -82,7 +82,7 @@ SELECT YEAR(order_date) AS year,
 FROM ecommerce_sales
 GROUP BY YEAR(order_date)
 ORDER BY year;
-
+```
 
 ---
 ## 🧠 Insights Summary
@@ -99,10 +99,3 @@ ORDER BY year;
 - Optimize discount strategy to protect margins
 
 ---
-
-## 🚀 How to Run This Project
-
-### 🧰 Requirements
-- SQL Server + SSMS
-- Power BI Desktop
-
