@@ -1,0 +1,801 @@
+order_id,order_date,customer_id,customer_name,state,city,product_category,product_name,quantity,unit_price,discount,payment_method,profit
+ORD0001,2023-05-02,CUST1466,Customer 215,Karnataka,Delhi,Home Decor,Lamp,3,1295,0.0,UPI,1046.5
+ORD0002,2024-05-06,CUST7949,Customer 192,Gujarat,Ahmedabad,Home Decor,Curtain,3,1885,0.0,UPI,1945.22
+ORD0003,2023-02-28,CUST3558,Customer 170,Gujarat,Bengaluru,Home Decor,Pillow,5,947,0.0,Cash on Delivery,986.04
+ORD0004,2024-10-08,CUST6393,Customer 89,Gujarat,Chennai,Clothing,Hoodie,4,1031,0.0,Credit Card,656.91
+ORD0005,2024-01-02,CUST8099,Customer 264,Karnataka,Chennai,Groceries,Rice,2,764,0.05,UPI,416.39
+ORD0006,2023-04-16,CUST4843,Customer 191,Delhi,Pune,Home Decor,Pillow,4,1225,0.05,Credit Card,1182.43
+ORD0007,2024-03-31,CUST8629,Customer 215,Gujarat,Mumbai,Groceries,Oil,4,469,0.1,Credit Card,564.56
+ORD0008,2023-08-05,CUST5859,Customer 188,Gujarat,Ahmedabad,Beauty,Shampoo,5,537,0.1,UPI,763.0
+ORD0009,2023-12-10,CUST3027,Customer 136,Karnataka,Delhi,Beauty,Perfume,5,264,0.0,UPI,458.54
+ORD0010,2023-02-10,CUST4099,Customer 135,Maharashtra,Bengaluru,Clothing,T-shirt,1,578,0.0,Credit Card,193.78
+ORD0011,2024-06-30,CUST6056,Customer 227,Tamil Nadu,Chennai,Electronics,Charger,5,298,0.2,Cash on Delivery,330.79
+ORD0012,2024-01-28,CUST1206,Customer 15,Delhi,Pune,Electronics,Headphones,2,702,0.1,UPI,254.25
+ORD0013,2024-04-29,CUST8574,Customer 231,Tamil Nadu,Delhi,Clothing,T-shirt,1,763,0.0,UPI,192.06
+ORD0014,2024-11-12,CUST3693,Customer 284,Gujarat,Bengaluru,Home Decor,Lamp,3,1466,0.05,Credit Card,1362.45
+ORD0015,2023-08-13,CUST2306,Customer 121,Gujarat,Ahmedabad,Clothing,Hoodie,2,1571,0.0,UPI,671.13
+ORD0016,2023-08-22,CUST1663,Customer 160,Maharashtra,Bengaluru,Clothing,T-shirt,3,848,0.05,UPI,469.88
+ORD0017,2024-01-22,CUST8280,Customer 101,Maharashtra,Mumbai,Electronics,Smartphone,4,1491,0.05,Cash on Delivery,1638.89
+ORD0018,2023-08-13,CUST7528,Customer 126,Delhi,Ahmedabad,Electronics,Smartphone,2,419,0.05,Credit Card,124.68
+ORD0019,2023-10-21,CUST3327,Customer 98,Karnataka,Mumbai,Home Decor,Clock,3,1407,0.1,UPI,753.82
+ORD0020,2024-02-07,CUST2986,Customer 147,Gujarat,Bengaluru,Home Decor,Clock,5,1994,0.2,UPI,1716.37
+ORD0021,2024-04-17,CUST6534,Customer 298,Karnataka,Bengaluru,Electronics,Charger,2,1071,0.0,Credit Card,610.77
+ORD0022,2023-09-11,CUST5548,Customer 37,Karnataka,Mumbai,Electronics,Charger,4,1080,0.05,UPI,1433.33
+ORD0023,2024-11-03,CUST2648,Customer 104,Gujarat,Chennai,Clothing,T-shirt,3,603,0.2,Cash on Delivery,334.16
+ORD0024,2024-12-06,CUST3869,Customer 163,Tamil Nadu,Mumbai,Electronics,Laptop Bag,1,1113,0.2,UPI,187.94
+ORD0025,2024-01-27,CUST2218,Customer 128,Maharashtra,Bengaluru,Home Decor,Lamp,5,1015,0.2,Cash on Delivery,906.57
+ORD0026,2023-01-27,CUST1225,Customer 277,Maharashtra,Bengaluru,Clothing,Jeans,5,762,0.05,Cash on Delivery,1198.85
+ORD0027,2023-07-11,CUST8679,Customer 17,Gujarat,Bengaluru,Electronics,Headphones,4,1015,0.1,Credit Card,966.12
+ORD0028,2023-02-06,CUST3327,Customer 181,Karnataka,Bengaluru,Beauty,Soap,5,717,0.1,UPI,966.48
+ORD0029,2023-09-13,CUST4394,Customer 128,Delhi,Mumbai,Home Decor,Clock,5,1180,0.2,Credit Card,1511.47
+ORD0030,2024-09-30,CUST1154,Customer 273,Maharashtra,Mumbai,Groceries,Biscuits,2,1511,0.1,Cash on Delivery,946.52
+ORD0031,2024-05-20,CUST3950,Customer 36,Tamil Nadu,Bengaluru,Beauty,Soap,2,1120,0.2,UPI,596.11
+ORD0032,2023-02-20,CUST4769,Customer 63,Tamil Nadu,Chennai,Home Decor,Clock,4,1577,0.05,Credit Card,1424.41
+ORD0033,2023-02-23,CUST3491,Customer 101,Maharashtra,Ahmedabad,Groceries,Oil,1,1915,0.05,UPI,572.19
+ORD0034,2024-10-17,CUST5465,Customer 124,Delhi,Chennai,Home Decor,Pillow,5,1191,0.2,Cash on Delivery,1106.54
+ORD0035,2024-04-18,CUST9308,Customer 279,Maharashtra,Bengaluru,Electronics,Charger,3,1827,0.05,UPI,862.75
+ORD0036,2024-09-29,CUST6237,Customer 48,Maharashtra,Ahmedabad,Electronics,Smartphone,2,712,0.1,UPI,256.38
+ORD0037,2023-09-04,CUST9130,Customer 76,Delhi,Delhi,Electronics,Charger,5,903,0.1,UPI,963.6
+ORD0038,2024-03-28,CUST7617,Customer 39,Gujarat,Mumbai,Electronics,Headphones,4,1292,0.1,Credit Card,735.57
+ORD0039,2023-06-29,CUST8390,Customer 250,Karnataka,Pune,Beauty,Perfume,2,721,0.05,UPI,379.49
+ORD0040,2023-09-15,CUST7303,Customer 152,Gujarat,Pune,Beauty,Cream,4,1239,0.2,Cash on Delivery,1343.19
+ORD0041,2023-09-25,CUST9002,Customer 65,Maharashtra,Pune,Home Decor,Lamp,1,1156,0.1,Cash on Delivery,326.82
+ORD0042,2023-09-10,CUST9945,Customer 35,Maharashtra,Pune,Home Decor,Lamp,5,211,0.1,UPI,214.07
+ORD0043,2023-07-15,CUST1825,Customer 114,Tamil Nadu,Delhi,Groceries,Oil,2,1221,0.05,UPI,468.94
+ORD0044,2024-04-01,CUST3967,Customer 192,Karnataka,Mumbai,Home Decor,Lamp,5,1220,0.0,Cash on Delivery,1583.53
+ORD0045,2023-02-06,CUST4440,Customer 183,Tamil Nadu,Mumbai,Home Decor,Pillow,1,295,0.2,Cash on Delivery,76.33
+ORD0046,2023-12-08,CUST5492,Customer 187,Karnataka,Mumbai,Electronics,Smartphone,1,261,0.2,UPI,65.83
+ORD0047,2024-01-19,CUST5946,Customer 144,Tamil Nadu,Ahmedabad,Electronics,Laptop Bag,4,464,0.1,Cash on Delivery,570.21
+ORD0048,2023-05-31,CUST2167,Customer 57,Tamil Nadu,Ahmedabad,Home Decor,Lamp,4,1090,0.0,Credit Card,1310.07
+ORD0049,2023-08-23,CUST9010,Customer 146,Gujarat,Mumbai,Groceries,Biscuits,2,1356,0.1,Credit Card,799.46
+ORD0050,2024-10-14,CUST2191,Customer 170,Maharashtra,Pune,Groceries,Sugar,1,1476,0.05,Cash on Delivery,233.92
+ORD0051,2024-10-09,CUST2365,Customer 145,Maharashtra,Ahmedabad,Groceries,Oil,5,228,0.0,Credit Card,224.18
+ORD0052,2023-04-01,CUST9905,Customer 19,Karnataka,Ahmedabad,Home Decor,Clock,3,644,0.2,UPI,404.45
+ORD0053,2023-12-27,CUST4072,Customer 190,Maharashtra,Bengaluru,Groceries,Sugar,2,1883,0.2,UPI,914.2
+ORD0054,2024-07-09,CUST7316,Customer 149,Tamil Nadu,Delhi,Electronics,Charger,1,1133,0.0,UPI,388.22
+ORD0055,2023-08-21,CUST4376,Customer 14,Maharashtra,Ahmedabad,Home Decor,Clock,3,1755,0.0,Credit Card,1340.57
+ORD0056,2023-12-24,CUST8575,Customer 156,Tamil Nadu,Pune,Clothing,Hoodie,1,1170,0.2,Credit Card,319.87
+ORD0057,2024-12-04,CUST7042,Customer 145,Maharashtra,Mumbai,Groceries,Sugar,2,739,0.2,UPI,262.57
+ORD0058,2024-06-30,CUST4324,Customer 82,Karnataka,Ahmedabad,Home Decor,Lamp,4,951,0.0,Cash on Delivery,671.93
+ORD0059,2023-01-05,CUST2015,Customer 289,Maharashtra,Pune,Electronics,Smartphone,2,1023,0.05,Cash on Delivery,628.23
+ORD0060,2024-11-19,CUST5000,Customer 98,Maharashtra,Delhi,Electronics,Laptop Bag,5,1505,0.1,Cash on Delivery,1548.18
+ORD0061,2024-03-12,CUST8190,Customer 53,Tamil Nadu,Pune,Electronics,Headphones,4,908,0.1,Credit Card,980.58
+ORD0062,2023-02-20,CUST5780,Customer 205,Gujarat,Chennai,Clothing,Shirt,5,1301,0.0,UPI,1143.79
+ORD0063,2023-06-03,CUST1249,Customer 162,Karnataka,Delhi,Electronics,Charger,2,1571,0.1,Credit Card,488.39
+ORD0064,2024-02-05,CUST5719,Customer 255,Tamil Nadu,Ahmedabad,Home Decor,Lamp,4,588,0.05,Credit Card,726.92
+ORD0065,2023-11-02,CUST7241,Customer 286,Karnataka,Delhi,Groceries,Biscuits,3,302,0.05,Cash on Delivery,235.36
+ORD0066,2024-06-25,CUST5854,Customer 106,Karnataka,Mumbai,Groceries,Sugar,1,365,0.0,UPI,111.96
+ORD0067,2024-05-22,CUST6971,Customer 69,Delhi,Chennai,Beauty,Shampoo,2,383,0.0,UPI,190.29
+ORD0068,2023-04-21,CUST1760,Customer 151,Karnataka,Chennai,Groceries,Rice,3,242,0.2,UPI,126.8
+ORD0069,2023-03-02,CUST7777,Customer 51,Karnataka,Ahmedabad,Clothing,Hoodie,3,866,0.0,UPI,895.33
+ORD0070,2024-10-06,CUST7376,Customer 12,Delhi,Chennai,Groceries,Sugar,2,733,0.0,Credit Card,380.78
+ORD0071,2023-05-01,CUST7493,Customer 107,Tamil Nadu,Mumbai,Electronics,Smartphone,2,1296,0.05,Credit Card,763.05
+ORD0072,2024-09-30,CUST1055,Customer 214,Delhi,Bengaluru,Home Decor,Lamp,1,1476,0.2,Cash on Delivery,226.56
+ORD0073,2023-01-07,CUST6122,Customer 111,Karnataka,Bengaluru,Groceries,Rice,2,725,0.1,UPI,261.64
+ORD0074,2024-04-29,CUST9905,Customer 39,Maharashtra,Mumbai,Groceries,Oil,3,1238,0.2,Cash on Delivery,605.68
+ORD0075,2023-01-25,CUST8561,Customer 67,Maharashtra,Ahmedabad,Groceries,Oil,4,736,0.0,Credit Card,643.52
+ORD0076,2024-08-17,CUST3472,Customer 101,Gujarat,Pune,Home Decor,Clock,2,822,0.2,Credit Card,351.56
+ORD0077,2023-10-16,CUST2460,Customer 150,Tamil Nadu,Chennai,Clothing,Hoodie,3,1076,0.05,Credit Card,831.52
+ORD0078,2024-10-25,CUST9434,Customer 31,Tamil Nadu,Bengaluru,Home Decor,Pillow,3,1669,0.05,Cash on Delivery,1480.14
+ORD0079,2023-04-28,CUST3551,Customer 62,Maharashtra,Pune,Groceries,Sugar,4,274,0.2,Cash on Delivery,132.45
+ORD0080,2023-11-22,CUST9915,Customer 225,Gujarat,Mumbai,Clothing,Hoodie,2,1658,0.0,Cash on Delivery,1007.73
+ORD0081,2023-09-16,CUST4744,Customer 178,Delhi,Ahmedabad,Electronics,Smartphone,5,338,0.1,Cash on Delivery,374.51
+ORD0082,2023-11-17,CUST2342,Customer 101,Maharashtra,Mumbai,Groceries,Sugar,2,212,0.2,UPI,105.82
+ORD0083,2023-11-14,CUST1235,Customer 137,Delhi,Bengaluru,Clothing,T-shirt,3,1829,0.1,Cash on Delivery,1658.8
+ORD0084,2023-08-17,CUST7413,Customer 286,Karnataka,Ahmedabad,Clothing,Shirt,4,1572,0.2,UPI,1587.53
+ORD0085,2024-08-23,CUST2065,Customer 89,Delhi,Chennai,Beauty,Perfume,3,277,0.05,Cash on Delivery,261.76
+ORD0086,2024-10-26,CUST3192,Customer 225,Delhi,Chennai,Beauty,Soap,1,1246,0.1,UPI,280.96
+ORD0087,2023-06-28,CUST9135,Customer 42,Gujarat,Ahmedabad,Clothing,T-shirt,3,397,0.05,UPI,245.03
+ORD0088,2023-04-07,CUST1950,Customer 289,Gujarat,Chennai,Home Decor,Pillow,3,619,0.0,Credit Card,334.88
+ORD0089,2023-06-08,CUST7371,Customer 216,Gujarat,Ahmedabad,Groceries,Rice,3,1064,0.05,UPI,952.94
+ORD0090,2023-04-05,CUST3674,Customer 243,Gujarat,Bengaluru,Beauty,Perfume,4,1043,0.0,Credit Card,1226.6
+ORD0091,2024-07-03,CUST7166,Customer 218,Tamil Nadu,Chennai,Clothing,T-shirt,5,1883,0.1,Credit Card,2896.37
+ORD0092,2023-11-20,CUST4876,Customer 127,Delhi,Mumbai,Electronics,Headphones,4,882,0.2,Cash on Delivery,481.06
+ORD0093,2024-12-26,CUST2792,Customer 101,Tamil Nadu,Pune,Groceries,Rice,3,1252,0.05,Credit Card,1202.03
+ORD0094,2024-01-06,CUST6031,Customer 149,Maharashtra,Ahmedabad,Home Decor,Pillow,1,1224,0.1,UPI,233.86
+ORD0095,2024-07-28,CUST1536,Customer 90,Karnataka,Chennai,Groceries,Sugar,1,316,0.05,Credit Card,65.05
+ORD0096,2023-06-28,CUST2205,Customer 152,Maharashtra,Bengaluru,Groceries,Biscuits,2,546,0.0,Credit Card,292.02
+ORD0097,2024-10-23,CUST3713,Customer 156,Delhi,Ahmedabad,Beauty,Shampoo,1,376,0.0,UPI,100.06
+ORD0098,2024-04-20,CUST6182,Customer 189,Maharashtra,Mumbai,Electronics,Charger,1,888,0.2,UPI,165.47
+ORD0099,2023-11-01,CUST5524,Customer 286,Karnataka,Pune,Clothing,T-shirt,3,1541,0.2,UPI,901.1
+ORD0100,2023-04-24,CUST6797,Customer 132,Maharashtra,Ahmedabad,Clothing,T-shirt,2,393,0.05,Cash on Delivery,177.83
+ORD0101,2024-01-15,CUST1054,Customer 288,Delhi,Ahmedabad,Clothing,Hoodie,2,1681,0.1,UPI,843.59
+ORD0102,2023-02-23,CUST4310,Customer 229,Karnataka,Delhi,Electronics,Laptop Bag,3,642,0.1,UPI,266.84
+ORD0103,2023-04-30,CUST3538,Customer 165,Tamil Nadu,Chennai,Home Decor,Clock,2,295,0.2,Cash on Delivery,138.98
+ORD0104,2023-05-27,CUST4695,Customer 36,Tamil Nadu,Bengaluru,Groceries,Biscuits,2,974,0.0,Credit Card,373.19
+ORD0105,2024-12-07,CUST5566,Customer 119,Gujarat,Bengaluru,Groceries,Rice,5,1746,0.05,UPI,2612.63
+ORD0106,2024-05-14,CUST2387,Customer 280,Maharashtra,Pune,Beauty,Soap,1,1449,0.0,Credit Card,302.69
+ORD0107,2024-07-05,CUST5033,Customer 237,Maharashtra,Mumbai,Clothing,Jeans,1,1338,0.0,Credit Card,272.6
+ORD0108,2024-09-01,CUST9996,Customer 75,Delhi,Ahmedabad,Clothing,Jeans,4,865,0.05,Credit Card,1085.09
+ORD0109,2024-01-13,CUST2622,Customer 117,Delhi,Chennai,Home Decor,Lamp,2,1240,0.0,UPI,695.1
+ORD0110,2024-03-30,CUST3969,Customer 190,Delhi,Chennai,Clothing,Shirt,3,367,0.05,Credit Card,282.51
+ORD0111,2024-01-06,CUST5124,Customer 149,Karnataka,Delhi,Home Decor,Pillow,3,1928,0.1,UPI,874.89
+ORD0112,2024-10-25,CUST5853,Customer 69,Maharashtra,Pune,Clothing,T-shirt,3,1533,0.05,Cash on Delivery,1001.95
+ORD0113,2024-05-21,CUST7122,Customer 201,Delhi,Pune,Home Decor,Clock,3,1467,0.1,UPI,1264.64
+ORD0114,2024-09-07,CUST7185,Customer 25,Karnataka,Delhi,Electronics,Headphones,1,1864,0.0,Credit Card,542.4
+ORD0115,2024-06-07,CUST3322,Customer 101,Gujarat,Delhi,Beauty,Shampoo,4,1658,0.05,Cash on Delivery,951.68
+ORD0116,2023-01-12,CUST2341,Customer 80,Karnataka,Ahmedabad,Electronics,Headphones,1,529,0.0,UPI,126.54
+ORD0117,2024-07-24,CUST4993,Customer 26,Delhi,Mumbai,Beauty,Soap,1,665,0.0,Cash on Delivery,185.76
+ORD0118,2024-06-02,CUST5232,Customer 176,Delhi,Delhi,Groceries,Rice,2,590,0.05,Cash on Delivery,195.17
+ORD0119,2024-05-04,CUST1614,Customer 273,Karnataka,Bengaluru,Beauty,Soap,4,1134,0.1,UPI,872.9
+ORD0120,2023-12-30,CUST9230,Customer 15,Maharashtra,Bengaluru,Groceries,Biscuits,5,1394,0.2,UPI,1328.24
+ORD0121,2023-04-18,CUST9502,Customer 227,Delhi,Pune,Electronics,Headphones,2,1384,0.2,Credit Card,521.19
+ORD0122,2023-02-08,CUST3032,Customer 245,Gujarat,Mumbai,Clothing,T-shirt,5,1364,0.05,Cash on Delivery,2188.69
+ORD0123,2024-11-19,CUST3050,Customer 142,Delhi,Bengaluru,Electronics,Smartphone,1,1582,0.2,Credit Card,376.54
+ORD0124,2024-02-03,CUST9056,Customer 140,Karnataka,Pune,Beauty,Cream,1,1148,0.05,UPI,173.43
+ORD0125,2023-11-15,CUST9202,Customer 62,Tamil Nadu,Pune,Beauty,Cream,3,1603,0.05,UPI,1582.85
+ORD0126,2023-11-06,CUST4564,Customer 107,Delhi,Mumbai,Home Decor,Curtain,3,1807,0.2,Credit Card,1377.22
+ORD0127,2023-02-23,CUST8214,Customer 215,Maharashtra,Mumbai,Electronics,Headphones,2,458,0.2,Cash on Delivery,161.23
+ORD0128,2024-11-20,CUST8312,Customer 216,Karnataka,Delhi,Home Decor,Pillow,1,1796,0.1,Credit Card,370.56
+ORD0129,2023-12-23,CUST2290,Customer 105,Karnataka,Delhi,Beauty,Shampoo,5,1312,0.0,UPI,2158.14
+ORD0130,2024-04-07,CUST1954,Customer 226,Gujarat,Chennai,Electronics,Laptop Bag,1,937,0.2,Cash on Delivery,117.75
+ORD0131,2024-11-18,CUST4020,Customer 284,Tamil Nadu,Ahmedabad,Beauty,Shampoo,2,1113,0.05,UPI,724.12
+ORD0132,2024-11-28,CUST2591,Customer 40,Delhi,Delhi,Groceries,Sugar,5,423,0.05,UPI,539.45
+ORD0133,2024-07-24,CUST2704,Customer 269,Karnataka,Ahmedabad,Beauty,Cream,3,535,0.2,UPI,255.59
+ORD0134,2023-01-07,CUST1556,Customer 249,Karnataka,Pune,Beauty,Soap,4,390,0.1,Credit Card,421.96
+ORD0135,2024-06-07,CUST1294,Customer 224,Tamil Nadu,Chennai,Clothing,Shirt,2,555,0.05,Cash on Delivery,333.67
+ORD0136,2024-03-23,CUST2007,Customer 74,Maharashtra,Pune,Electronics,Headphones,1,559,0.1,Cash on Delivery,113.37
+ORD0137,2024-04-28,CUST2265,Customer 219,Maharashtra,Bengaluru,Home Decor,Curtain,5,1188,0.05,Credit Card,1904.21
+ORD0138,2023-07-29,CUST3353,Customer 270,Tamil Nadu,Bengaluru,Electronics,Smartphone,1,221,0.05,Cash on Delivery,34.63
+ORD0139,2023-02-02,CUST8813,Customer 79,Karnataka,Delhi,Clothing,Hoodie,5,659,0.1,Credit Card,483.75
+ORD0140,2024-02-01,CUST1038,Customer 271,Tamil Nadu,Ahmedabad,Groceries,Oil,2,1508,0.2,Cash on Delivery,567.58
+ORD0141,2024-04-03,CUST6658,Customer 195,Maharashtra,Chennai,Home Decor,Curtain,2,1910,0.05,UPI,711.32
+ORD0142,2024-03-28,CUST6626,Customer 257,Delhi,Bengaluru,Beauty,Perfume,5,283,0.05,Credit Card,405.99
+ORD0143,2023-09-28,CUST7635,Customer 208,Karnataka,Bengaluru,Groceries,Rice,3,1208,0.0,Credit Card,1061.78
+ORD0144,2024-11-16,CUST4633,Customer 199,Karnataka,Ahmedabad,Electronics,Headphones,5,1532,0.2,UPI,1864.04
+ORD0145,2023-07-25,CUST2875,Customer 228,Maharashtra,Chennai,Home Decor,Pillow,3,1115,0.05,UPI,770.35
+ORD0146,2024-01-30,CUST4788,Customer 209,Tamil Nadu,Pune,Home Decor,Clock,5,316,0.05,Credit Card,464.58
+ORD0147,2023-04-12,CUST4496,Customer 267,Karnataka,Mumbai,Groceries,Oil,3,1524,0.0,UPI,1472.3
+ORD0148,2023-08-30,CUST9032,Customer 2,Maharashtra,Mumbai,Home Decor,Lamp,4,1883,0.0,UPI,1972.85
+ORD0149,2023-04-13,CUST8014,Customer 90,Delhi,Pune,Beauty,Soap,1,788,0.2,Cash on Delivery,139.67
+ORD0150,2024-09-26,CUST2925,Customer 9,Maharashtra,Mumbai,Groceries,Oil,4,1528,0.2,Credit Card,1355.82
+ORD0151,2023-09-08,CUST3430,Customer 7,Karnataka,Bengaluru,Home Decor,Curtain,2,1541,0.2,Credit Card,537.23
+ORD0152,2024-11-30,CUST5109,Customer 12,Gujarat,Ahmedabad,Groceries,Oil,2,1094,0.1,UPI,311.43
+ORD0153,2024-11-15,CUST2927,Customer 221,Tamil Nadu,Delhi,Beauty,Perfume,2,1370,0.1,Credit Card,601.79
+ORD0154,2024-10-04,CUST9946,Customer 35,Tamil Nadu,Ahmedabad,Groceries,Biscuits,5,1575,0.2,Credit Card,2173.24
+ORD0155,2023-01-24,CUST9595,Customer 293,Gujarat,Bengaluru,Electronics,Laptop Bag,4,1061,0.0,Credit Card,1253.82
+ORD0156,2024-02-24,CUST6631,Customer 228,Delhi,Pune,Home Decor,Curtain,2,1912,0.1,Credit Card,914.55
+ORD0157,2024-10-04,CUST1529,Customer 40,Tamil Nadu,Mumbai,Groceries,Biscuits,3,385,0.05,Cash on Delivery,243.4
+ORD0158,2024-06-09,CUST7477,Customer 2,Tamil Nadu,Ahmedabad,Groceries,Sugar,4,951,0.05,Credit Card,671.94
+ORD0159,2023-08-19,CUST4155,Customer 130,Maharashtra,Delhi,Beauty,Cream,4,580,0.1,UPI,560.8
+ORD0160,2024-03-24,CUST6543,Customer 164,Tamil Nadu,Delhi,Electronics,Charger,2,1386,0.0,Credit Card,420.81
+ORD0161,2023-12-27,CUST7276,Customer 276,Karnataka,Bengaluru,Clothing,Jeans,2,1828,0.05,UPI,985.97
+ORD0162,2024-11-17,CUST7116,Customer 204,Tamil Nadu,Mumbai,Electronics,Charger,4,1507,0.0,UPI,1634.24
+ORD0163,2023-09-08,CUST1956,Customer 130,Maharashtra,Ahmedabad,Home Decor,Curtain,4,1590,0.1,Credit Card,1497.56
+ORD0164,2023-06-10,CUST2229,Customer 12,Delhi,Bengaluru,Beauty,Cream,3,397,0.0,UPI,401.1
+ORD0165,2023-07-04,CUST6342,Customer 184,Karnataka,Pune,Groceries,Sugar,3,325,0.05,Cash on Delivery,198.8
+ORD0166,2023-11-04,CUST2969,Customer 234,Gujarat,Pune,Home Decor,Pillow,4,350,0.2,UPI,197.73
+ORD0167,2023-03-27,CUST2198,Customer 290,Maharashtra,Pune,Electronics,Laptop Bag,5,1575,0.05,Cash on Delivery,2421.15
+ORD0168,2024-08-10,CUST1986,Customer 289,Maharashtra,Delhi,Groceries,Oil,2,1368,0.05,Cash on Delivery,841.57
+ORD0169,2024-12-04,CUST9133,Customer 63,Maharashtra,Mumbai,Beauty,Shampoo,5,560,0.05,UPI,584.44
+ORD0170,2024-05-03,CUST8114,Customer 98,Tamil Nadu,Chennai,Electronics,Charger,5,784,0.0,Credit Card,1032.54
+ORD0171,2023-10-06,CUST2388,Customer 129,Maharashtra,Ahmedabad,Home Decor,Pillow,3,1677,0.05,Cash on Delivery,1445.58
+ORD0172,2024-08-27,CUST6592,Customer 224,Maharashtra,Delhi,Electronics,Charger,2,910,0.1,Credit Card,473.54
+ORD0173,2023-01-03,CUST7228,Customer 282,Delhi,Chennai,Groceries,Biscuits,3,1167,0.05,UPI,926.33
+ORD0174,2023-10-20,CUST9234,Customer 21,Karnataka,Ahmedabad,Beauty,Soap,1,211,0.0,Cash on Delivery,48.48
+ORD0175,2023-05-21,CUST5882,Customer 290,Tamil Nadu,Bengaluru,Electronics,Charger,3,250,0.1,UPI,127.87
+ORD0176,2024-10-09,CUST8311,Customer 106,Gujarat,Chennai,Home Decor,Pillow,3,1892,0.1,Credit Card,1310.06
+ORD0177,2024-04-03,CUST2286,Customer 108,Delhi,Ahmedabad,Groceries,Rice,5,843,0.05,Cash on Delivery,698.25
+ORD0178,2024-03-27,CUST2798,Customer 172,Tamil Nadu,Pune,Electronics,Smartphone,5,497,0.2,Cash on Delivery,681.06
+ORD0179,2024-06-04,CUST1009,Customer 121,Tamil Nadu,Pune,Clothing,Shirt,5,925,0.2,UPI,723.78
+ORD0180,2024-09-03,CUST8227,Customer 167,Delhi,Mumbai,Groceries,Biscuits,5,1803,0.05,Credit Card,2538.37
+ORD0181,2024-11-17,CUST1482,Customer 108,Delhi,Mumbai,Clothing,Hoodie,2,1192,0.1,Cash on Delivery,573.57
+ORD0182,2023-06-09,CUST9841,Customer 78,Tamil Nadu,Ahmedabad,Beauty,Cream,5,1878,0.1,UPI,2293.76
+ORD0183,2024-07-07,CUST7780,Customer 167,Maharashtra,Mumbai,Electronics,Smartphone,3,462,0.0,Cash on Delivery,395.24
+ORD0184,2023-10-15,CUST7764,Customer 36,Tamil Nadu,Mumbai,Home Decor,Pillow,3,1803,0.05,Cash on Delivery,1117.35
+ORD0185,2024-07-14,CUST4713,Customer 5,Gujarat,Delhi,Electronics,Charger,1,1293,0.0,UPI,353.55
+ORD0186,2023-05-10,CUST6291,Customer 258,Maharashtra,Delhi,Groceries,Biscuits,4,580,0.05,Credit Card,477.39
+ORD0187,2024-04-21,CUST4374,Customer 208,Delhi,Chennai,Home Decor,Curtain,4,1665,0.2,Credit Card,1823.95
+ORD0188,2024-05-29,CUST2679,Customer 30,Tamil Nadu,Bengaluru,Electronics,Laptop Bag,4,856,0.2,Cash on Delivery,775.15
+ORD0189,2023-03-25,CUST5037,Customer 231,Maharashtra,Ahmedabad,Beauty,Shampoo,4,520,0.0,Credit Card,591.37
+ORD0190,2023-04-24,CUST3408,Customer 258,Karnataka,Mumbai,Home Decor,Pillow,5,1877,0.2,UPI,1581.38
+ORD0191,2023-07-15,CUST5406,Customer 262,Karnataka,Chennai,Electronics,Laptop Bag,3,1403,0.05,Cash on Delivery,957.41
+ORD0192,2023-02-11,CUST9785,Customer 291,Delhi,Chennai,Home Decor,Lamp,4,689,0.2,Credit Card,741.08
+ORD0193,2024-11-05,CUST7721,Customer 130,Karnataka,Pune,Clothing,Hoodie,4,1749,0.0,Credit Card,1500.68
+ORD0194,2023-10-16,CUST5259,Customer 95,Maharashtra,Chennai,Home Decor,Pillow,2,1760,0.05,Credit Card,590.23
+ORD0195,2024-10-14,CUST3529,Customer 25,Gujarat,Ahmedabad,Beauty,Shampoo,3,682,0.0,UPI,644.57
+ORD0196,2023-02-12,CUST5349,Customer 130,Gujarat,Delhi,Home Decor,Pillow,5,646,0.05,Cash on Delivery,460.48
+ORD0197,2024-11-20,CUST6175,Customer 83,Maharashtra,Delhi,Clothing,Shirt,3,977,0.0,UPI,473.75
+ORD0198,2024-08-31,CUST2638,Customer 40,Maharashtra,Ahmedabad,Electronics,Charger,3,462,0.2,Cash on Delivery,319.69
+ORD0199,2023-08-19,CUST8857,Customer 63,Tamil Nadu,Bengaluru,Home Decor,Curtain,5,1019,0.2,Cash on Delivery,1041.04
+ORD0200,2024-08-20,CUST4716,Customer 183,Delhi,Chennai,Beauty,Perfume,3,291,0.05,Cash on Delivery,261.67
+ORD0201,2024-02-27,CUST7356,Customer 242,Tamil Nadu,Ahmedabad,Beauty,Soap,5,849,0.1,UPI,677.84
+ORD0202,2024-05-11,CUST5795,Customer 191,Tamil Nadu,Bengaluru,Groceries,Rice,5,871,0.2,Cash on Delivery,781.4
+ORD0203,2024-08-16,CUST5839,Customer 227,Maharashtra,Ahmedabad,Beauty,Soap,4,745,0.2,UPI,473.69
+ORD0204,2023-01-17,CUST4191,Customer 129,Delhi,Bengaluru,Groceries,Rice,2,596,0.0,UPI,406.55
+ORD0205,2024-12-26,CUST3247,Customer 79,Maharashtra,Bengaluru,Electronics,Smartphone,2,431,0.0,Cash on Delivery,271.55
+ORD0206,2023-04-11,CUST5940,Customer 200,Maharashtra,Delhi,Beauty,Perfume,5,1639,0.2,UPI,1655.03
+ORD0207,2023-10-04,CUST1365,Customer 228,Karnataka,Bengaluru,Beauty,Perfume,3,863,0.0,Cash on Delivery,883.63
+ORD0208,2023-09-18,CUST9964,Customer 8,Delhi,Chennai,Clothing,T-shirt,3,739,0.1,Cash on Delivery,368.78
+ORD0209,2024-07-14,CUST2827,Customer 78,Maharashtra,Mumbai,Home Decor,Lamp,1,528,0.05,UPI,142.19
+ORD0210,2024-05-02,CUST1769,Customer 269,Tamil Nadu,Bengaluru,Groceries,Biscuits,2,348,0.2,Credit Card,116.13
+ORD0211,2024-10-26,CUST5583,Customer 124,Delhi,Mumbai,Clothing,Jeans,1,1135,0.05,Credit Card,210.18
+ORD0212,2024-11-16,CUST3160,Customer 122,Maharashtra,Bengaluru,Home Decor,Pillow,4,1948,0.2,UPI,1181.23
+ORD0213,2023-10-29,CUST8527,Customer 238,Gujarat,Delhi,Groceries,Rice,5,1221,0.0,Credit Card,2110.37
+ORD0214,2024-04-07,CUST7579,Customer 283,Delhi,Delhi,Clothing,Shirt,4,1689,0.05,Cash on Delivery,1131.82
+ORD0215,2024-05-29,CUST9894,Customer 118,Karnataka,Ahmedabad,Home Decor,Lamp,3,620,0.0,Credit Card,555.55
+ORD0216,2023-12-28,CUST8353,Customer 144,Maharashtra,Bengaluru,Home Decor,Clock,1,1351,0.0,UPI,245.9
+ORD0217,2024-05-05,CUST3520,Customer 10,Tamil Nadu,Chennai,Clothing,Shirt,4,1327,0.1,Cash on Delivery,1100.18
+ORD0218,2024-05-14,CUST3979,Customer 86,Delhi,Pune,Clothing,T-shirt,2,1136,0.2,Credit Card,557.56
+ORD0219,2024-08-09,CUST4983,Customer 243,Karnataka,Ahmedabad,Home Decor,Lamp,1,1641,0.0,Credit Card,366.91
+ORD0220,2023-08-15,CUST8321,Customer 293,Tamil Nadu,Chennai,Home Decor,Clock,5,1355,0.2,Cash on Delivery,1658.95
+ORD0221,2023-09-30,CUST3563,Customer 221,Karnataka,Ahmedabad,Beauty,Soap,4,387,0.0,Credit Card,352.22
+ORD0222,2023-07-07,CUST4390,Customer 211,Tamil Nadu,Bengaluru,Home Decor,Curtain,2,1893,0.05,Credit Card,972.65
+ORD0223,2024-03-07,CUST6469,Customer 183,Maharashtra,Mumbai,Groceries,Oil,5,1126,0.2,Credit Card,1141.56
+ORD0224,2023-04-28,CUST2283,Customer 148,Karnataka,Chennai,Home Decor,Lamp,3,675,0.1,Cash on Delivery,552.8
+ORD0225,2024-05-14,CUST9329,Customer 50,Karnataka,Ahmedabad,Home Decor,Clock,1,801,0.2,Cash on Delivery,122.13
+ORD0226,2024-07-16,CUST7900,Customer 35,Delhi,Delhi,Electronics,Smartphone,5,909,0.0,UPI,1526.77
+ORD0227,2023-09-18,CUST4331,Customer 126,Delhi,Delhi,Beauty,Shampoo,5,248,0.0,UPI,299.63
+ORD0228,2023-07-07,CUST8736,Customer 31,Gujarat,Mumbai,Electronics,Charger,1,1405,0.05,UPI,363.11
+ORD0229,2023-09-27,CUST1631,Customer 182,Delhi,Mumbai,Home Decor,Pillow,4,1102,0.1,UPI,813.76
+ORD0230,2023-09-07,CUST1874,Customer 21,Gujarat,Pune,Home Decor,Lamp,5,1451,0.2,UPI,924.58
+ORD0231,2024-04-16,CUST7342,Customer 154,Gujarat,Chennai,Clothing,T-shirt,2,871,0.2,UPI,361.87
+ORD0232,2024-12-30,CUST9100,Customer 161,Delhi,Ahmedabad,Beauty,Soap,5,1305,0.0,Cash on Delivery,1832.45
+ORD0233,2023-12-20,CUST7171,Customer 43,Maharashtra,Chennai,Groceries,Rice,1,792,0.2,UPI,109.58
+ORD0234,2024-05-28,CUST4137,Customer 98,Karnataka,Ahmedabad,Electronics,Smartphone,2,1800,0.05,Cash on Delivery,626.39
+ORD0235,2023-08-31,CUST2854,Customer 49,Tamil Nadu,Bengaluru,Home Decor,Curtain,4,770,0.05,Credit Card,1011.26
+ORD0236,2023-08-01,CUST2749,Customer 116,Gujarat,Chennai,Home Decor,Pillow,4,413,0.1,Cash on Delivery,283.94
+ORD0237,2023-09-11,CUST4970,Customer 44,Maharashtra,Pune,Beauty,Cream,2,1249,0.0,Cash on Delivery,388.27
+ORD0238,2024-12-09,CUST3551,Customer 268,Delhi,Bengaluru,Home Decor,Clock,1,578,0.05,UPI,92.62
+ORD0239,2023-08-26,CUST6223,Customer 210,Delhi,Bengaluru,Home Decor,Lamp,5,1295,0.1,Credit Card,1623.16
+ORD0240,2023-02-09,CUST7629,Customer 220,Maharashtra,Ahmedabad,Home Decor,Pillow,3,1076,0.1,Cash on Delivery,957.08
+ORD0241,2023-01-16,CUST6248,Customer 63,Tamil Nadu,Ahmedabad,Beauty,Shampoo,3,743,0.0,UPI,692.6
+ORD0242,2024-07-24,CUST9438,Customer 128,Karnataka,Ahmedabad,Beauty,Soap,4,1123,0.05,UPI,1476.33
+ORD0243,2024-10-06,CUST1226,Customer 189,Gujarat,Ahmedabad,Clothing,Shirt,4,1129,0.05,UPI,711.66
+ORD0244,2024-01-12,CUST6569,Customer 213,Delhi,Chennai,Home Decor,Pillow,2,845,0.1,Cash on Delivery,459.21
+ORD0245,2023-07-09,CUST2715,Customer 34,Maharashtra,Delhi,Home Decor,Curtain,2,1500,0.2,Cash on Delivery,756.47
+ORD0246,2024-10-23,CUST7416,Customer 108,Karnataka,Chennai,Groceries,Oil,3,1152,0.1,Cash on Delivery,852.83
+ORD0247,2023-03-07,CUST5578,Customer 248,Gujarat,Chennai,Clothing,T-shirt,1,923,0.0,UPI,263.27
+ORD0248,2023-07-10,CUST7659,Customer 294,Tamil Nadu,Delhi,Home Decor,Curtain,1,1167,0.1,UPI,216.21
+ORD0249,2024-07-04,CUST1392,Customer 252,Tamil Nadu,Pune,Beauty,Cream,4,1877,0.2,Cash on Delivery,1947.52
+ORD0250,2023-12-20,CUST7701,Customer 38,Gujarat,Ahmedabad,Electronics,Smartphone,3,418,0.1,Credit Card,207.45
+ORD0251,2023-09-27,CUST5249,Customer 102,Maharashtra,Delhi,Clothing,T-shirt,3,795,0.0,Credit Card,377.8
+ORD0252,2023-06-22,CUST8230,Customer 73,Karnataka,Bengaluru,Clothing,T-shirt,2,1498,0.0,Cash on Delivery,952.4
+ORD0253,2024-03-12,CUST3723,Customer 286,Maharashtra,Mumbai,Electronics,Charger,3,1142,0.2,UPI,472.83
+ORD0254,2023-02-10,CUST6827,Customer 68,Gujarat,Pune,Clothing,Shirt,3,1200,0.1,UPI,959.2
+ORD0255,2023-01-16,CUST3524,Customer 62,Maharashtra,Chennai,Beauty,Soap,1,1855,0.1,Cash on Delivery,459.51
+ORD0256,2023-10-31,CUST8851,Customer 201,Tamil Nadu,Mumbai,Clothing,Hoodie,2,1692,0.1,Cash on Delivery,858.14
+ORD0257,2024-02-28,CUST7581,Customer 76,Maharashtra,Delhi,Electronics,Smartphone,1,1231,0.0,Credit Card,355.62
+ORD0258,2023-06-28,CUST2846,Customer 28,Gujarat,Chennai,Home Decor,Lamp,5,1773,0.2,UPI,2182.64
+ORD0259,2023-12-27,CUST5005,Customer 262,Maharashtra,Pune,Clothing,Jeans,4,393,0.2,UPI,339.72
+ORD0260,2023-12-28,CUST8616,Customer 93,Tamil Nadu,Mumbai,Beauty,Shampoo,2,482,0.2,Cash on Delivery,152.52
+ORD0261,2023-02-18,CUST2325,Customer 190,Karnataka,Bengaluru,Clothing,Hoodie,5,1912,0.0,UPI,2460.76
+ORD0262,2024-09-09,CUST6482,Customer 233,Maharashtra,Ahmedabad,Groceries,Biscuits,5,1980,0.0,UPI,1917.65
+ORD0263,2023-02-10,CUST6670,Customer 192,Karnataka,Chennai,Electronics,Headphones,5,1018,0.1,Cash on Delivery,1152.04
+ORD0264,2023-11-28,CUST7132,Customer 109,Gujarat,Ahmedabad,Clothing,Shirt,5,200,0.2,UPI,187.49
+ORD0265,2023-06-23,CUST4741,Customer 215,Maharashtra,Bengaluru,Beauty,Soap,4,1473,0.0,Credit Card,885.64
+ORD0266,2024-08-16,CUST2774,Customer 84,Maharashtra,Mumbai,Groceries,Oil,4,1189,0.0,Credit Card,1147.37
+ORD0267,2023-07-21,CUST3497,Customer 266,Delhi,Delhi,Clothing,T-shirt,1,1993,0.1,Credit Card,500.84
+ORD0268,2024-09-20,CUST2628,Customer 166,Karnataka,Chennai,Electronics,Headphones,4,970,0.2,Credit Card,861.59
+ORD0269,2023-12-23,CUST5669,Customer 49,Maharashtra,Mumbai,Electronics,Headphones,4,618,0.1,Credit Card,549.97
+ORD0270,2024-01-10,CUST3120,Customer 122,Gujarat,Bengaluru,Home Decor,Lamp,3,1881,0.2,Credit Card,1284.77
+ORD0271,2023-01-23,CUST1359,Customer 75,Delhi,Delhi,Clothing,T-shirt,4,1395,0.1,UPI,1515.99
+ORD0272,2023-01-07,CUST4267,Customer 56,Maharashtra,Mumbai,Home Decor,Curtain,1,878,0.05,Cash on Delivery,152.95
+ORD0273,2024-02-23,CUST6546,Customer 126,Karnataka,Mumbai,Home Decor,Clock,5,1425,0.2,UPI,1286.96
+ORD0274,2024-04-30,CUST2054,Customer 113,Tamil Nadu,Pune,Beauty,Shampoo,2,1911,0.2,UPI,813.46
+ORD0275,2024-03-05,CUST5458,Customer 234,Karnataka,Pune,Clothing,T-shirt,3,756,0.2,Credit Card,308.19
+ORD0276,2023-05-05,CUST6668,Customer 170,Gujarat,Ahmedabad,Clothing,Shirt,5,741,0.05,Cash on Delivery,1161.58
+ORD0277,2023-02-28,CUST6619,Customer 109,Gujarat,Ahmedabad,Home Decor,Pillow,4,400,0.0,UPI,268.22
+ORD0278,2024-01-14,CUST1946,Customer 42,Delhi,Ahmedabad,Electronics,Headphones,5,873,0.0,Cash on Delivery,1319.89
+ORD0279,2023-10-27,CUST1138,Customer 92,Tamil Nadu,Delhi,Groceries,Rice,5,1141,0.1,UPI,1047.69
+ORD0280,2023-04-14,CUST7905,Customer 275,Tamil Nadu,Ahmedabad,Groceries,Biscuits,4,634,0.0,UPI,884.48
+ORD0281,2023-04-27,CUST9458,Customer 173,Gujarat,Chennai,Electronics,Headphones,4,1882,0.1,UPI,2322.58
+ORD0282,2024-07-11,CUST1882,Customer 147,Delhi,Bengaluru,Clothing,T-shirt,4,1740,0.0,Credit Card,1991.61
+ORD0283,2024-02-03,CUST2946,Customer 203,Maharashtra,Delhi,Groceries,Sugar,3,1640,0.05,Credit Card,1413.23
+ORD0284,2024-11-17,CUST7142,Customer 239,Gujarat,Ahmedabad,Electronics,Laptop Bag,5,1173,0.1,Cash on Delivery,1222.06
+ORD0285,2023-05-27,CUST8742,Customer 294,Karnataka,Delhi,Electronics,Charger,4,1140,0.0,UPI,1267.86
+ORD0286,2024-04-24,CUST5117,Customer 214,Karnataka,Delhi,Beauty,Perfume,5,486,0.1,Credit Card,336.41
+ORD0287,2024-06-30,CUST1695,Customer 286,Maharashtra,Chennai,Groceries,Oil,5,1427,0.05,Cash on Delivery,1468.72
+ORD0288,2023-11-23,CUST9733,Customer 135,Karnataka,Mumbai,Clothing,T-shirt,2,463,0.05,UPI,277.72
+ORD0289,2023-07-07,CUST8295,Customer 201,Maharashtra,Bengaluru,Beauty,Cream,5,340,0.2,Cash on Delivery,458.89
+ORD0290,2023-09-17,CUST9605,Customer 75,Karnataka,Delhi,Groceries,Biscuits,1,1001,0.05,Credit Card,195.96
+ORD0291,2023-05-03,CUST9549,Customer 16,Delhi,Mumbai,Home Decor,Lamp,5,1513,0.0,Cash on Delivery,2579.84
+ORD0292,2024-03-25,CUST2497,Customer 13,Gujarat,Pune,Groceries,Oil,4,1879,0.05,Cash on Delivery,1142.75
+ORD0293,2023-11-17,CUST6789,Customer 269,Tamil Nadu,Delhi,Clothing,Hoodie,3,1853,0.0,UPI,1482.32
+ORD0294,2023-01-23,CUST7687,Customer 74,Delhi,Bengaluru,Clothing,Shirt,1,925,0.1,Credit Card,272.84
+ORD0295,2023-02-22,CUST7846,Customer 260,Tamil Nadu,Delhi,Home Decor,Curtain,2,1237,0.05,Cash on Delivery,688.15
+ORD0296,2023-03-16,CUST8016,Customer 204,Maharashtra,Mumbai,Groceries,Sugar,2,1049,0.2,Cash on Delivery,463.09
+ORD0297,2023-10-21,CUST7352,Customer 88,Delhi,Mumbai,Electronics,Smartphone,5,1377,0.05,Credit Card,1342.38
+ORD0298,2024-07-30,CUST6738,Customer 147,Maharashtra,Delhi,Beauty,Shampoo,1,1380,0.2,Credit Card,188.1
+ORD0299,2023-06-26,CUST9389,Customer 112,Gujarat,Delhi,Home Decor,Curtain,4,1110,0.1,UPI,946.11
+ORD0300,2024-09-23,CUST8094,Customer 175,Tamil Nadu,Ahmedabad,Electronics,Smartphone,2,1128,0.2,Cash on Delivery,499.1
+ORD0301,2024-03-27,CUST5888,Customer 94,Maharashtra,Ahmedabad,Beauty,Cream,1,1759,0.2,Cash on Delivery,247.55
+ORD0302,2023-10-31,CUST3587,Customer 41,Karnataka,Pune,Clothing,Hoodie,5,1009,0.0,Credit Card,1120.04
+ORD0303,2023-07-29,CUST9588,Customer 100,Delhi,Mumbai,Clothing,Hoodie,1,1091,0.1,UPI,298.02
+ORD0304,2023-06-11,CUST4976,Customer 216,Gujarat,Pune,Clothing,Jeans,1,1323,0.0,Cash on Delivery,397.96
+ORD0305,2024-03-13,CUST6184,Customer 21,Gujarat,Delhi,Home Decor,Pillow,4,1139,0.0,Cash on Delivery,1305.02
+ORD0306,2023-02-13,CUST8982,Customer 53,Delhi,Chennai,Beauty,Cream,1,317,0.05,UPI,76.24
+ORD0307,2024-01-22,CUST3158,Customer 102,Maharashtra,Bengaluru,Beauty,Soap,2,1067,0.05,Credit Card,471.81
+ORD0308,2023-07-07,CUST4923,Customer 119,Gujarat,Mumbai,Home Decor,Curtain,5,370,0.0,Credit Card,633.99
+ORD0309,2024-11-04,CUST5063,Customer 224,Tamil Nadu,Mumbai,Home Decor,Clock,5,1905,0.1,UPI,1941.81
+ORD0310,2024-07-08,CUST7516,Customer 135,Gujarat,Delhi,Groceries,Biscuits,4,1861,0.2,UPI,894.89
+ORD0311,2023-02-14,CUST9835,Customer 104,Karnataka,Ahmedabad,Clothing,Hoodie,1,1182,0.0,UPI,246.13
+ORD0312,2024-04-15,CUST9707,Customer 90,Maharashtra,Ahmedabad,Beauty,Soap,2,611,0.0,Credit Card,365.98
+ORD0313,2023-03-31,CUST8659,Customer 199,Delhi,Mumbai,Clothing,T-shirt,4,477,0.0,Credit Card,364.42
+ORD0314,2024-11-23,CUST7599,Customer 68,Gujarat,Delhi,Electronics,Smartphone,3,1524,0.1,Cash on Delivery,738.16
+ORD0315,2024-07-22,CUST3606,Customer 159,Maharashtra,Chennai,Electronics,Headphones,4,1325,0.2,Credit Card,1250.78
+ORD0316,2024-04-03,CUST3295,Customer 54,Maharashtra,Pune,Groceries,Rice,2,204,0.2,Credit Card,90.15
+ORD0317,2024-01-25,CUST3645,Customer 210,Delhi,Chennai,Clothing,Jeans,5,1345,0.0,UPI,2303.06
+ORD0318,2024-09-11,CUST8888,Customer 240,Karnataka,Ahmedabad,Clothing,Jeans,5,719,0.2,Credit Card,947.74
+ORD0319,2024-08-02,CUST3743,Customer 187,Delhi,Chennai,Clothing,T-shirt,4,1715,0.05,UPI,1119.48
+ORD0320,2023-11-07,CUST1619,Customer 285,Karnataka,Ahmedabad,Home Decor,Clock,5,1824,0.05,Credit Card,2328.12
+ORD0321,2023-09-04,CUST9711,Customer 141,Delhi,Chennai,Electronics,Laptop Bag,3,444,0.2,Cash on Delivery,368.12
+ORD0322,2023-04-03,CUST9277,Customer 44,Maharashtra,Ahmedabad,Electronics,Laptop Bag,1,386,0.2,Credit Card,81.22
+ORD0323,2023-06-20,CUST9148,Customer 216,Delhi,Bengaluru,Home Decor,Lamp,4,1735,0.2,Credit Card,1086.72
+ORD0324,2024-10-14,CUST2196,Customer 10,Gujarat,Mumbai,Clothing,Jeans,5,1378,0.0,Credit Card,1588.51
+ORD0325,2023-11-23,CUST4824,Customer 117,Karnataka,Delhi,Clothing,Jeans,3,328,0.2,UPI,198.8
+ORD0326,2024-11-23,CUST4162,Customer 82,Gujarat,Mumbai,Clothing,Jeans,1,473,0.0,Credit Card,94.69
+ORD0327,2023-11-11,CUST4786,Customer 41,Maharashtra,Ahmedabad,Electronics,Smartphone,2,1627,0.2,Credit Card,404.81
+ORD0328,2024-08-02,CUST8423,Customer 139,Karnataka,Ahmedabad,Electronics,Headphones,2,1215,0.0,Cash on Delivery,473.8
+ORD0329,2023-10-30,CUST7297,Customer 40,Tamil Nadu,Ahmedabad,Home Decor,Pillow,3,602,0.0,Credit Card,398.42
+ORD0330,2023-04-19,CUST5316,Customer 41,Karnataka,Chennai,Home Decor,Clock,2,283,0.1,Credit Card,131.88
+ORD0331,2024-12-07,CUST4607,Customer 24,Delhi,Bengaluru,Electronics,Laptop Bag,4,470,0.1,Cash on Delivery,425.34
+ORD0332,2023-10-06,CUST1580,Customer 254,Tamil Nadu,Chennai,Groceries,Rice,1,670,0.0,UPI,138.35
+ORD0333,2024-10-11,CUST7534,Customer 103,Tamil Nadu,Ahmedabad,Electronics,Headphones,1,899,0.05,Cash on Delivery,189.97
+ORD0334,2024-02-24,CUST4240,Customer 30,Tamil Nadu,Mumbai,Clothing,Jeans,4,1043,0.05,Cash on Delivery,1174.53
+ORD0335,2024-07-04,CUST6141,Customer 213,Tamil Nadu,Mumbai,Clothing,Jeans,1,1605,0.2,Cash on Delivery,424.22
+ORD0336,2024-10-12,CUST4551,Customer 10,Maharashtra,Mumbai,Groceries,Oil,3,361,0.1,Cash on Delivery,247.11
+ORD0337,2023-07-10,CUST3610,Customer 292,Maharashtra,Mumbai,Electronics,Laptop Bag,5,1068,0.05,Cash on Delivery,1553.08
+ORD0338,2024-01-13,CUST1166,Customer 126,Maharashtra,Mumbai,Groceries,Sugar,3,1421,0.0,Credit Card,743.49
+ORD0339,2023-12-06,CUST3292,Customer 3,Maharashtra,Mumbai,Clothing,Shirt,5,272,0.0,Cash on Delivery,262.04
+ORD0340,2024-06-27,CUST2151,Customer 43,Gujarat,Delhi,Beauty,Perfume,1,1162,0.05,Credit Card,201.58
+ORD0341,2023-11-11,CUST3972,Customer 168,Karnataka,Ahmedabad,Groceries,Rice,2,900,0.1,UPI,319.13
+ORD0342,2024-10-20,CUST3763,Customer 80,Karnataka,Delhi,Beauty,Perfume,5,1463,0.2,Credit Card,1713.95
+ORD0343,2023-01-22,CUST1882,Customer 7,Karnataka,Pune,Electronics,Charger,4,627,0.1,Cash on Delivery,481.48
+ORD0344,2023-04-23,CUST6131,Customer 126,Tamil Nadu,Delhi,Clothing,T-shirt,2,699,0.2,UPI,204.18
+ORD0345,2023-03-10,CUST7261,Customer 59,Maharashtra,Chennai,Clothing,Hoodie,1,1101,0.0,Credit Card,259.95
+ORD0346,2024-03-27,CUST7432,Customer 141,Gujarat,Chennai,Electronics,Laptop Bag,5,1673,0.05,Cash on Delivery,1786.3
+ORD0347,2023-12-04,CUST3761,Customer 57,Delhi,Chennai,Clothing,Hoodie,5,959,0.2,UPI,788.57
+ORD0348,2023-11-14,CUST2988,Customer 82,Delhi,Bengaluru,Groceries,Rice,2,717,0.05,UPI,235.22
+ORD0349,2023-04-08,CUST9399,Customer 2,Gujarat,Pune,Electronics,Laptop Bag,1,1427,0.1,Credit Card,260.53
+ORD0350,2024-07-06,CUST3195,Customer 108,Karnataka,Bengaluru,Groceries,Biscuits,3,868,0.1,Cash on Delivery,797.49
+ORD0351,2024-12-19,CUST2306,Customer 266,Maharashtra,Mumbai,Groceries,Oil,5,1001,0.05,Credit Card,1630.89
+ORD0352,2024-03-27,CUST3642,Customer 154,Maharashtra,Pune,Electronics,Laptop Bag,4,1282,0.2,UPI,617.02
+ORD0353,2024-09-01,CUST3461,Customer 25,Tamil Nadu,Bengaluru,Clothing,Jeans,3,759,0.0,UPI,433.83
+ORD0354,2023-03-24,CUST2920,Customer 138,Gujarat,Mumbai,Electronics,Headphones,4,1230,0.0,UPI,1271.32
+ORD0355,2024-11-20,CUST4490,Customer 244,Karnataka,Ahmedabad,Groceries,Sugar,1,1041,0.05,Cash on Delivery,295.27
+ORD0356,2023-09-05,CUST1859,Customer 273,Karnataka,Mumbai,Electronics,Charger,4,1828,0.1,UPI,1939.29
+ORD0357,2023-05-31,CUST2134,Customer 47,Maharashtra,Mumbai,Groceries,Oil,4,1716,0.2,Credit Card,1541.92
+ORD0358,2023-11-10,CUST2184,Customer 16,Delhi,Chennai,Beauty,Perfume,2,495,0.1,Cash on Delivery,215.43
+ORD0359,2024-05-18,CUST2993,Customer 91,Karnataka,Chennai,Groceries,Oil,3,1387,0.1,Credit Card,773.92
+ORD0360,2024-01-04,CUST5027,Customer 284,Maharashtra,Chennai,Electronics,Headphones,5,589,0.1,UPI,682.94
+ORD0361,2023-12-29,CUST6307,Customer 230,Delhi,Bengaluru,Electronics,Smartphone,3,1052,0.05,Credit Card,827.65
+ORD0362,2023-03-04,CUST8829,Customer 139,Delhi,Mumbai,Home Decor,Clock,5,1558,0.2,UPI,1457.53
+ORD0363,2023-07-26,CUST8296,Customer 3,Delhi,Mumbai,Home Decor,Pillow,5,1074,0.05,UPI,794.11
+ORD0364,2023-01-21,CUST1241,Customer 109,Gujarat,Delhi,Beauty,Shampoo,5,844,0.0,Cash on Delivery,789.69
+ORD0365,2023-11-08,CUST5841,Customer 23,Maharashtra,Ahmedabad,Home Decor,Lamp,1,395,0.2,UPI,63.2
+ORD0366,2024-07-20,CUST7121,Customer 177,Delhi,Pune,Groceries,Sugar,1,1972,0.1,Cash on Delivery,342.91
+ORD0367,2023-04-19,CUST3594,Customer 39,Maharashtra,Chennai,Electronics,Headphones,5,1028,0.0,UPI,850.81
+ORD0368,2024-02-18,CUST7968,Customer 214,Maharashtra,Ahmedabad,Groceries,Biscuits,1,275,0.1,Cash on Delivery,59.99
+ORD0369,2024-09-15,CUST7038,Customer 45,Maharashtra,Ahmedabad,Beauty,Perfume,5,871,0.05,Credit Card,938.99
+ORD0370,2023-10-16,CUST9912,Customer 126,Karnataka,Pune,Beauty,Soap,4,1241,0.05,Cash on Delivery,859.56
+ORD0371,2023-08-22,CUST8178,Customer 206,Karnataka,Chennai,Groceries,Oil,4,314,0.2,Cash on Delivery,174.52
+ORD0372,2024-04-25,CUST1018,Customer 195,Delhi,Pune,Home Decor,Curtain,3,1732,0.0,UPI,1211.47
+ORD0373,2023-04-03,CUST1238,Customer 205,Maharashtra,Ahmedabad,Beauty,Soap,2,1722,0.0,UPI,1116.22
+ORD0374,2023-11-01,CUST6126,Customer 103,Tamil Nadu,Mumbai,Beauty,Perfume,2,216,0.1,UPI,67.21
+ORD0375,2024-06-24,CUST4700,Customer 282,Gujarat,Mumbai,Electronics,Laptop Bag,1,450,0.0,Credit Card,104.23
+ORD0376,2024-02-29,CUST7773,Customer 233,Tamil Nadu,Delhi,Home Decor,Lamp,1,1316,0.0,Cash on Delivery,427.48
+ORD0377,2024-06-25,CUST3104,Customer 232,Delhi,Delhi,Groceries,Rice,5,1098,0.1,Credit Card,815.96
+ORD0378,2023-02-18,CUST5780,Customer 82,Delhi,Ahmedabad,Home Decor,Clock,1,491,0.1,UPI,72.17
+ORD0379,2023-01-03,CUST9397,Customer 40,Karnataka,Chennai,Home Decor,Curtain,5,834,0.05,Cash on Delivery,848.68
+ORD0380,2024-02-18,CUST4306,Customer 62,Maharashtra,Mumbai,Home Decor,Curtain,3,1345,0.1,Cash on Delivery,1059.5
+ORD0381,2023-05-16,CUST1249,Customer 295,Delhi,Bengaluru,Home Decor,Pillow,5,1727,0.1,UPI,1241.35
+ORD0382,2024-08-05,CUST4163,Customer 265,Gujarat,Chennai,Clothing,Shirt,3,1927,0.2,UPI,1380.27
+ORD0383,2024-04-29,CUST6876,Customer 62,Delhi,Bengaluru,Groceries,Rice,3,1799,0.05,Credit Card,1680.81
+ORD0384,2023-02-28,CUST6944,Customer 40,Tamil Nadu,Delhi,Beauty,Cream,3,253,0.2,Credit Card,115.64
+ORD0385,2024-12-30,CUST3561,Customer 178,Gujarat,Delhi,Home Decor,Pillow,4,594,0.1,Credit Card,559.37
+ORD0386,2023-08-27,CUST5290,Customer 166,Karnataka,Chennai,Groceries,Oil,1,583,0.05,UPI,159.77
+ORD0387,2024-08-08,CUST4046,Customer 207,Gujarat,Chennai,Electronics,Smartphone,5,355,0.0,Credit Card,512.85
+ORD0388,2024-11-07,CUST7718,Customer 22,Tamil Nadu,Ahmedabad,Beauty,Shampoo,4,360,0.2,Cash on Delivery,222.85
+ORD0389,2024-01-01,CUST9092,Customer 104,Tamil Nadu,Chennai,Beauty,Shampoo,2,1911,0.05,Credit Card,856.16
+ORD0390,2024-11-18,CUST9490,Customer 287,Karnataka,Ahmedabad,Groceries,Sugar,3,1405,0.0,Credit Card,688.95
+ORD0391,2023-09-10,CUST3828,Customer 291,Gujarat,Delhi,Clothing,Shirt,3,1898,0.1,Cash on Delivery,810.05
+ORD0392,2024-08-20,CUST1165,Customer 114,Maharashtra,Bengaluru,Beauty,Perfume,3,707,0.2,Cash on Delivery,360.47
+ORD0393,2023-05-05,CUST1067,Customer 61,Tamil Nadu,Delhi,Clothing,Jeans,3,714,0.2,Cash on Delivery,399.21
+ORD0394,2023-07-30,CUST7039,Customer 139,Delhi,Bengaluru,Groceries,Oil,5,1138,0.0,UPI,1113.96
+ORD0395,2023-04-23,CUST3217,Customer 166,Maharashtra,Chennai,Clothing,Shirt,3,1884,0.2,Cash on Delivery,1125.11
+ORD0396,2024-04-15,CUST4716,Customer 59,Maharashtra,Mumbai,Clothing,Shirt,2,1378,0.1,Credit Card,800.5
+ORD0397,2023-07-12,CUST2678,Customer 104,Gujarat,Chennai,Groceries,Oil,3,1032,0.2,Credit Card,772.89
+ORD0398,2024-02-08,CUST5529,Customer 112,Maharashtra,Delhi,Groceries,Biscuits,1,292,0.05,Cash on Delivery,51.03
+ORD0399,2023-07-03,CUST9281,Customer 94,Tamil Nadu,Ahmedabad,Home Decor,Curtain,4,1445,0.05,Credit Card,1412.21
+ORD0400,2023-05-30,CUST8175,Customer 29,Delhi,Chennai,Beauty,Cream,2,1661,0.05,UPI,940.81
+ORD0401,2023-08-27,CUST6047,Customer 155,Tamil Nadu,Mumbai,Home Decor,Curtain,3,718,0.2,Cash on Delivery,555.9
+ORD0402,2024-09-22,CUST8431,Customer 207,Tamil Nadu,Chennai,Clothing,Hoodie,5,1457,0.0,Credit Card,1999.92
+ORD0403,2023-03-05,CUST7953,Customer 11,Delhi,Pune,Home Decor,Curtain,5,1854,0.2,Cash on Delivery,2324.14
+ORD0404,2024-12-28,CUST7628,Customer 84,Karnataka,Ahmedabad,Home Decor,Pillow,2,962,0.2,Credit Card,247.88
+ORD0405,2023-04-20,CUST1191,Customer 93,Gujarat,Pune,Electronics,Charger,4,255,0.1,Cash on Delivery,284.27
+ORD0406,2023-04-11,CUST6457,Customer 166,Delhi,Delhi,Home Decor,Lamp,4,836,0.0,Credit Card,543.44
+ORD0407,2023-12-21,CUST7059,Customer 112,Gujarat,Chennai,Beauty,Shampoo,2,1647,0.2,Cash on Delivery,471.22
+ORD0408,2023-07-03,CUST9417,Customer 265,Tamil Nadu,Mumbai,Electronics,Headphones,2,1024,0.1,Credit Card,297.48
+ORD0409,2024-05-17,CUST5774,Customer 13,Maharashtra,Mumbai,Clothing,Hoodie,1,1622,0.05,Credit Card,327.87
+ORD0410,2024-03-03,CUST4109,Customer 211,Gujarat,Mumbai,Clothing,Shirt,2,1044,0.2,Cash on Delivery,469.73
+ORD0411,2024-05-02,CUST2932,Customer 229,Karnataka,Ahmedabad,Groceries,Sugar,4,386,0.0,UPI,390.28
+ORD0412,2024-11-02,CUST4258,Customer 191,Gujarat,Ahmedabad,Home Decor,Pillow,4,1774,0.2,Credit Card,1274.07
+ORD0413,2024-02-10,CUST7855,Customer 247,Maharashtra,Chennai,Clothing,Hoodie,3,1460,0.05,Credit Card,1311.31
+ORD0414,2023-12-15,CUST6374,Customer 190,Gujarat,Mumbai,Clothing,Jeans,3,1991,0.1,Cash on Delivery,1169.19
+ORD0415,2024-02-10,CUST7531,Customer 13,Tamil Nadu,Pune,Electronics,Laptop Bag,5,961,0.2,Credit Card,768.55
+ORD0416,2024-04-25,CUST4968,Customer 273,Delhi,Pune,Electronics,Charger,4,916,0.0,Cash on Delivery,661.02
+ORD0417,2023-08-17,CUST9347,Customer 189,Delhi,Chennai,Beauty,Perfume,3,1697,0.1,Credit Card,1519.76
+ORD0418,2023-04-04,CUST3828,Customer 171,Tamil Nadu,Chennai,Electronics,Smartphone,5,807,0.05,UPI,880.01
+ORD0419,2024-12-14,CUST4435,Customer 53,Gujarat,Chennai,Electronics,Charger,3,827,0.1,UPI,741.59
+ORD0420,2023-04-08,CUST4791,Customer 265,Gujarat,Mumbai,Electronics,Charger,1,1917,0.1,UPI,314.24
+ORD0421,2023-08-20,CUST4113,Customer 190,Karnataka,Delhi,Electronics,Headphones,3,1413,0.2,Cash on Delivery,766.24
+ORD0422,2024-12-25,CUST4924,Customer 56,Delhi,Chennai,Clothing,T-shirt,1,1704,0.2,UPI,356.19
+ORD0423,2023-08-15,CUST7999,Customer 149,Karnataka,Pune,Beauty,Shampoo,3,1021,0.2,Cash on Delivery,747.49
+ORD0424,2023-01-28,CUST8538,Customer 244,Gujarat,Chennai,Clothing,T-shirt,4,472,0.05,Credit Card,512.43
+ORD0425,2023-10-15,CUST4176,Customer 228,Gujarat,Chennai,Electronics,Laptop Bag,4,257,0.0,Cash on Delivery,156.31
+ORD0426,2023-07-29,CUST3863,Customer 296,Maharashtra,Bengaluru,Groceries,Sugar,3,1973,0.2,Credit Card,1006.86
+ORD0427,2023-07-03,CUST8755,Customer 287,Tamil Nadu,Mumbai,Home Decor,Pillow,4,1122,0.0,Cash on Delivery,888.61
+ORD0428,2023-03-14,CUST9002,Customer 152,Tamil Nadu,Delhi,Groceries,Biscuits,2,1119,0.05,Credit Card,344.47
+ORD0429,2024-11-23,CUST7305,Customer 140,Gujarat,Mumbai,Clothing,Hoodie,1,470,0.1,Credit Card,81.42
+ORD0430,2024-03-08,CUST1627,Customer 214,Tamil Nadu,Chennai,Electronics,Smartphone,3,1601,0.0,UPI,1133.47
+ORD0431,2023-10-29,CUST8192,Customer 277,Maharashtra,Pune,Electronics,Charger,5,1366,0.05,UPI,1362.51
+ORD0432,2024-06-13,CUST5059,Customer 227,Karnataka,Pune,Electronics,Laptop Bag,4,1526,0.1,Credit Card,1547.72
+ORD0433,2023-07-11,CUST3052,Customer 237,Tamil Nadu,Ahmedabad,Electronics,Charger,1,1935,0.1,Cash on Delivery,349.67
+ORD0434,2024-05-28,CUST8616,Customer 188,Karnataka,Chennai,Beauty,Soap,5,1420,0.0,Cash on Delivery,2336.89
+ORD0435,2024-03-20,CUST8036,Customer 220,Delhi,Chennai,Home Decor,Curtain,4,1825,0.0,UPI,1924.24
+ORD0436,2024-08-10,CUST1896,Customer 278,Tamil Nadu,Mumbai,Groceries,Rice,2,1470,0.1,UPI,424.82
+ORD0437,2023-07-28,CUST5117,Customer 166,Karnataka,Ahmedabad,Electronics,Laptop Bag,2,893,0.05,Credit Card,533.97
+ORD0438,2024-05-10,CUST1589,Customer 262,Karnataka,Chennai,Electronics,Headphones,2,1876,0.0,Credit Card,1189.08
+ORD0439,2024-11-05,CUST8984,Customer 217,Delhi,Pune,Beauty,Perfume,5,468,0.0,Cash on Delivery,480.05
+ORD0440,2023-05-26,CUST7928,Customer 249,Tamil Nadu,Bengaluru,Beauty,Soap,4,589,0.05,Cash on Delivery,628.56
+ORD0441,2024-02-23,CUST2939,Customer 100,Karnataka,Pune,Clothing,T-shirt,3,950,0.2,UPI,658.16
+ORD0442,2023-06-13,CUST2956,Customer 239,Gujarat,Delhi,Beauty,Cream,3,1273,0.0,Credit Card,912.07
+ORD0443,2023-10-14,CUST1757,Customer 136,Karnataka,Mumbai,Home Decor,Lamp,2,1507,0.2,Cash on Delivery,785.73
+ORD0444,2023-11-09,CUST8119,Customer 286,Delhi,Chennai,Beauty,Soap,4,570,0.1,Credit Card,568.57
+ORD0445,2023-06-20,CUST8549,Customer 173,Tamil Nadu,Chennai,Groceries,Rice,5,932,0.1,Credit Card,1242.68
+ORD0446,2023-10-15,CUST6737,Customer 146,Delhi,Mumbai,Groceries,Rice,4,1227,0.0,UPI,1634.42
+ORD0447,2024-02-05,CUST8263,Customer 297,Karnataka,Ahmedabad,Groceries,Sugar,3,646,0.1,Credit Card,550.64
+ORD0448,2024-05-29,CUST8483,Customer 76,Maharashtra,Pune,Clothing,Jeans,1,349,0.2,UPI,76.46
+ORD0449,2023-03-10,CUST3931,Customer 256,Maharashtra,Bengaluru,Clothing,Shirt,1,913,0.1,Credit Card,269.04
+ORD0450,2024-05-08,CUST7782,Customer 25,Karnataka,Bengaluru,Beauty,Shampoo,1,1809,0.05,Credit Card,506.71
+ORD0451,2024-11-15,CUST4792,Customer 64,Delhi,Bengaluru,Groceries,Biscuits,3,1746,0.0,UPI,1660.39
+ORD0452,2024-06-13,CUST2012,Customer 187,Delhi,Chennai,Groceries,Oil,3,1554,0.2,UPI,987.56
+ORD0453,2024-10-03,CUST5922,Customer 283,Gujarat,Bengaluru,Home Decor,Clock,2,275,0.2,UPI,101.0
+ORD0454,2024-06-03,CUST6956,Customer 90,Gujarat,Bengaluru,Clothing,Shirt,5,664,0.2,Credit Card,536.19
+ORD0455,2023-03-12,CUST7124,Customer 180,Gujarat,Ahmedabad,Beauty,Perfume,4,1836,0.05,UPI,1436.87
+ORD0456,2024-04-05,CUST5713,Customer 21,Tamil Nadu,Delhi,Beauty,Perfume,4,1654,0.05,Cash on Delivery,1637.62
+ORD0457,2023-08-12,CUST9975,Customer 146,Tamil Nadu,Chennai,Home Decor,Lamp,4,480,0.05,Credit Card,400.02
+ORD0458,2023-08-09,CUST3581,Customer 180,Gujarat,Bengaluru,Beauty,Perfume,2,852,0.1,UPI,426.8
+ORD0459,2023-01-09,CUST2311,Customer 50,Delhi,Ahmedabad,Clothing,T-shirt,4,438,0.1,Cash on Delivery,497.03
+ORD0460,2024-10-10,CUST5713,Customer 95,Gujarat,Delhi,Clothing,Shirt,2,1188,0.2,Credit Card,316.0
+ORD0461,2023-06-30,CUST1287,Customer 187,Gujarat,Pune,Clothing,Shirt,5,1412,0.1,Credit Card,1320.92
+ORD0462,2023-09-02,CUST1926,Customer 107,Maharashtra,Delhi,Groceries,Sugar,1,343,0.2,Cash on Delivery,52.22
+ORD0463,2023-08-13,CUST2371,Customer 47,Gujarat,Ahmedabad,Beauty,Shampoo,2,505,0.2,Credit Card,127.69
+ORD0464,2023-10-23,CUST8498,Customer 195,Gujarat,Delhi,Groceries,Oil,4,1331,0.1,Credit Card,839.45
+ORD0465,2023-01-30,CUST8845,Customer 284,Maharashtra,Ahmedabad,Clothing,Shirt,2,855,0.05,Credit Card,430.61
+ORD0466,2024-07-07,CUST3350,Customer 246,Tamil Nadu,Chennai,Home Decor,Pillow,1,1044,0.2,UPI,250.07
+ORD0467,2023-06-09,CUST6593,Customer 89,Delhi,Bengaluru,Home Decor,Pillow,3,1506,0.0,UPI,1578.51
+ORD0468,2024-11-18,CUST5883,Customer 39,Gujarat,Pune,Home Decor,Pillow,1,721,0.2,UPI,179.59
+ORD0469,2024-11-01,CUST6197,Customer 194,Tamil Nadu,Bengaluru,Clothing,Hoodie,4,1631,0.05,UPI,1296.5
+ORD0470,2024-09-13,CUST8825,Customer 216,Delhi,Pune,Home Decor,Curtain,5,1070,0.2,Credit Card,952.52
+ORD0471,2023-12-22,CUST5535,Customer 217,Maharashtra,Ahmedabad,Home Decor,Lamp,4,1245,0.05,Credit Card,1452.2
+ORD0472,2024-03-27,CUST6874,Customer 231,Gujarat,Mumbai,Clothing,T-shirt,5,322,0.2,UPI,249.33
+ORD0473,2024-07-09,CUST1609,Customer 261,Tamil Nadu,Delhi,Beauty,Perfume,4,1624,0.0,Cash on Delivery,1572.9
+ORD0474,2024-04-20,CUST6229,Customer 190,Tamil Nadu,Delhi,Clothing,Jeans,3,1064,0.0,Cash on Delivery,933.43
+ORD0475,2024-05-22,CUST3778,Customer 89,Maharashtra,Bengaluru,Beauty,Cream,5,525,0.1,Cash on Delivery,613.72
+ORD0476,2024-06-15,CUST2581,Customer 193,Delhi,Ahmedabad,Clothing,T-shirt,3,253,0.05,Cash on Delivery,117.65
+ORD0477,2023-04-22,CUST3994,Customer 161,Karnataka,Bengaluru,Electronics,Headphones,2,1051,0.05,Cash on Delivery,536.09
+ORD0478,2023-03-14,CUST1242,Customer 275,Karnataka,Ahmedabad,Beauty,Perfume,4,1427,0.2,Cash on Delivery,1324.81
+ORD0479,2023-04-21,CUST6162,Customer 211,Gujarat,Pune,Beauty,Cream,4,1664,0.05,Credit Card,1337.39
+ORD0480,2024-03-15,CUST5306,Customer 240,Karnataka,Bengaluru,Clothing,Jeans,3,1300,0.2,Cash on Delivery,949.42
+ORD0481,2024-03-02,CUST4346,Customer 230,Maharashtra,Pune,Clothing,Jeans,2,610,0.1,UPI,173.83
+ORD0482,2023-09-20,CUST5362,Customer 154,Gujarat,Delhi,Clothing,Hoodie,3,251,0.05,Cash on Delivery,235.15
+ORD0483,2024-08-23,CUST9572,Customer 118,Maharashtra,Bengaluru,Beauty,Cream,5,799,0.2,Credit Card,515.76
+ORD0484,2023-12-14,CUST8382,Customer 279,Delhi,Bengaluru,Home Decor,Clock,1,206,0.05,Cash on Delivery,41.38
+ORD0485,2023-06-13,CUST3381,Customer 35,Gujarat,Mumbai,Electronics,Smartphone,1,1277,0.0,Cash on Delivery,278.21
+ORD0486,2023-12-24,CUST1506,Customer 47,Tamil Nadu,Chennai,Home Decor,Lamp,5,278,0.05,Credit Card,431.35
+ORD0487,2024-10-11,CUST2464,Customer 230,Karnataka,Bengaluru,Electronics,Smartphone,1,1945,0.0,UPI,350.66
+ORD0488,2024-10-05,CUST9693,Customer 218,Gujarat,Mumbai,Electronics,Charger,5,1411,0.05,Cash on Delivery,1056.39
+ORD0489,2023-10-19,CUST9947,Customer 123,Karnataka,Delhi,Groceries,Rice,5,490,0.2,Credit Card,429.43
+ORD0490,2024-07-12,CUST8354,Customer 31,Gujarat,Ahmedabad,Electronics,Smartphone,4,707,0.0,UPI,505.35
+ORD0491,2023-07-22,CUST6185,Customer 108,Gujarat,Chennai,Groceries,Sugar,1,1867,0.05,Credit Card,294.49
+ORD0492,2024-08-21,CUST6209,Customer 237,Gujarat,Chennai,Groceries,Rice,5,456,0.1,Cash on Delivery,666.95
+ORD0493,2023-08-17,CUST8797,Customer 155,Maharashtra,Chennai,Beauty,Soap,5,1765,0.0,UPI,2903.54
+ORD0494,2023-09-28,CUST6811,Customer 172,Delhi,Delhi,Home Decor,Clock,5,1384,0.1,Cash on Delivery,1098.84
+ORD0495,2023-12-30,CUST5675,Customer 210,Gujarat,Mumbai,Clothing,Jeans,4,621,0.0,Credit Card,822.47
+ORD0496,2023-01-25,CUST7646,Customer 185,Tamil Nadu,Delhi,Beauty,Shampoo,2,1395,0.1,Cash on Delivery,693.77
+ORD0497,2024-03-04,CUST7559,Customer 215,Tamil Nadu,Pune,Home Decor,Curtain,4,378,0.1,UPI,334.3
+ORD0498,2023-05-03,CUST6506,Customer 266,Gujarat,Ahmedabad,Clothing,Jeans,3,1089,0.1,Cash on Delivery,808.78
+ORD0499,2023-05-27,CUST4138,Customer 8,Delhi,Bengaluru,Clothing,Jeans,4,822,0.05,Cash on Delivery,788.21
+ORD0500,2023-01-16,CUST6452,Customer 195,Maharashtra,Bengaluru,Home Decor,Clock,5,650,0.0,Credit Card,847.14
+ORD0501,2023-08-14,CUST4496,Customer 278,Maharashtra,Ahmedabad,Beauty,Cream,1,526,0.1,UPI,144.65
+ORD0502,2024-11-30,CUST2689,Customer 279,Karnataka,Chennai,Groceries,Biscuits,1,505,0.2,Cash on Delivery,140.11
+ORD0503,2024-10-19,CUST2342,Customer 92,Karnataka,Delhi,Beauty,Perfume,1,1753,0.05,Cash on Delivery,377.08
+ORD0504,2023-09-06,CUST6089,Customer 6,Tamil Nadu,Ahmedabad,Electronics,Charger,4,931,0.0,UPI,575.15
+ORD0505,2024-01-05,CUST5270,Customer 76,Tamil Nadu,Pune,Electronics,Charger,2,566,0.05,Cash on Delivery,307.04
+ORD0506,2024-06-21,CUST7893,Customer 14,Tamil Nadu,Bengaluru,Electronics,Laptop Bag,3,1370,0.1,UPI,795.23
+ORD0507,2024-05-16,CUST7219,Customer 220,Gujarat,Bengaluru,Electronics,Laptop Bag,3,1086,0.05,Cash on Delivery,576.24
+ORD0508,2023-06-26,CUST8204,Customer 99,Delhi,Delhi,Electronics,Laptop Bag,4,1090,0.2,Credit Card,1127.62
+ORD0509,2024-02-23,CUST5539,Customer 173,Gujarat,Chennai,Beauty,Soap,4,509,0.05,UPI,342.44
+ORD0510,2024-09-18,CUST6014,Customer 158,Tamil Nadu,Delhi,Groceries,Sugar,5,1712,0.0,Credit Card,1890.69
+ORD0511,2024-04-10,CUST4159,Customer 168,Karnataka,Pune,Electronics,Headphones,1,814,0.1,Cash on Delivery,156.05
+ORD0512,2023-09-02,CUST3156,Customer 287,Tamil Nadu,Pune,Groceries,Sugar,4,546,0.05,UPI,448.39
+ORD0513,2024-02-05,CUST9219,Customer 25,Delhi,Pune,Beauty,Cream,4,300,0.05,UPI,266.55
+ORD0514,2024-10-15,CUST3881,Customer 168,Karnataka,Ahmedabad,Clothing,Shirt,5,749,0.05,Cash on Delivery,550.7
+ORD0515,2023-12-10,CUST2058,Customer 190,Maharashtra,Bengaluru,Electronics,Charger,3,345,0.2,UPI,215.37
+ORD0516,2023-08-09,CUST5818,Customer 25,Karnataka,Mumbai,Beauty,Cream,4,1349,0.1,UPI,1299.66
+ORD0517,2024-03-14,CUST6521,Customer 34,Maharashtra,Ahmedabad,Groceries,Biscuits,1,1129,0.2,UPI,171.36
+ORD0518,2023-01-10,CUST7899,Customer 274,Gujarat,Bengaluru,Beauty,Soap,1,247,0.1,UPI,37.25
+ORD0519,2023-05-17,CUST7297,Customer 209,Karnataka,Mumbai,Electronics,Laptop Bag,4,390,0.2,UPI,354.15
+ORD0520,2024-09-12,CUST6214,Customer 105,Karnataka,Chennai,Beauty,Shampoo,2,822,0.05,UPI,489.18
+ORD0521,2023-06-13,CUST5471,Customer 141,Gujarat,Ahmedabad,Beauty,Perfume,3,684,0.0,Credit Card,317.9
+ORD0522,2024-07-25,CUST1790,Customer 103,Tamil Nadu,Ahmedabad,Home Decor,Curtain,1,507,0.1,Credit Card,96.97
+ORD0523,2023-07-02,CUST5588,Customer 130,Maharashtra,Ahmedabad,Groceries,Biscuits,5,934,0.0,Credit Card,842.36
+ORD0524,2023-07-11,CUST9516,Customer 214,Karnataka,Bengaluru,Home Decor,Pillow,3,897,0.1,Cash on Delivery,570.34
+ORD0525,2023-09-27,CUST8088,Customer 100,Karnataka,Mumbai,Electronics,Charger,1,1715,0.1,UPI,467.74
+ORD0526,2024-07-07,CUST3220,Customer 7,Karnataka,Pune,Clothing,Hoodie,2,1955,0.2,Credit Card,975.2
+ORD0527,2024-03-14,CUST8037,Customer 284,Karnataka,Delhi,Home Decor,Lamp,2,414,0.05,Credit Card,225.37
+ORD0528,2023-07-03,CUST2894,Customer 222,Karnataka,Delhi,Beauty,Soap,3,1825,0.2,Credit Card,945.05
+ORD0529,2023-07-19,CUST2335,Customer 196,Karnataka,Delhi,Clothing,T-shirt,1,1844,0.0,Cash on Delivery,497.08
+ORD0530,2023-06-21,CUST4158,Customer 41,Karnataka,Delhi,Beauty,Shampoo,3,200,0.1,Credit Card,104.51
+ORD0531,2024-11-29,CUST1382,Customer 209,Karnataka,Ahmedabad,Beauty,Cream,2,774,0.2,Cash on Delivery,328.88
+ORD0532,2023-09-10,CUST2340,Customer 95,Maharashtra,Bengaluru,Home Decor,Clock,3,315,0.05,Cash on Delivery,255.14
+ORD0533,2023-09-28,CUST5657,Customer 292,Karnataka,Chennai,Groceries,Oil,2,1558,0.1,Cash on Delivery,959.9
+ORD0534,2023-09-13,CUST2907,Customer 241,Tamil Nadu,Mumbai,Beauty,Cream,2,1183,0.2,Credit Card,432.74
+ORD0535,2024-04-21,CUST4998,Customer 192,Tamil Nadu,Mumbai,Home Decor,Pillow,1,1572,0.05,Credit Card,274.03
+ORD0536,2024-07-21,CUST5435,Customer 85,Tamil Nadu,Ahmedabad,Clothing,Jeans,2,1432,0.0,Credit Card,809.45
+ORD0537,2023-09-30,CUST9633,Customer 130,Gujarat,Ahmedabad,Clothing,Shirt,2,833,0.2,Cash on Delivery,311.6
+ORD0538,2024-10-21,CUST2551,Customer 105,Tamil Nadu,Mumbai,Groceries,Oil,1,1198,0.0,UPI,283.99
+ORD0539,2024-12-26,CUST8445,Customer 162,Tamil Nadu,Chennai,Groceries,Rice,2,464,0.1,Cash on Delivery,278.12
+ORD0540,2023-05-12,CUST4153,Customer 283,Karnataka,Delhi,Electronics,Smartphone,1,1094,0.0,UPI,318.48
+ORD0541,2023-11-14,CUST6583,Customer 290,Delhi,Pune,Home Decor,Pillow,1,1662,0.2,UPI,443.51
+ORD0542,2023-06-20,CUST1294,Customer 189,Delhi,Mumbai,Beauty,Shampoo,2,893,0.0,Cash on Delivery,531.9
+ORD0543,2023-03-12,CUST7391,Customer 146,Delhi,Chennai,Groceries,Biscuits,3,961,0.05,Credit Card,663.2
+ORD0544,2023-12-29,CUST2820,Customer 9,Karnataka,Bengaluru,Groceries,Rice,4,693,0.0,Credit Card,891.21
+ORD0545,2024-02-15,CUST1240,Customer 24,Karnataka,Chennai,Clothing,Hoodie,3,1421,0.2,Cash on Delivery,1128.25
+ORD0546,2024-06-17,CUST3173,Customer 42,Delhi,Mumbai,Electronics,Laptop Bag,4,810,0.05,Cash on Delivery,693.7
+ORD0547,2023-07-26,CUST2133,Customer 278,Karnataka,Delhi,Groceries,Biscuits,2,472,0.05,UPI,191.99
+ORD0548,2024-04-21,CUST3757,Customer 179,Maharashtra,Delhi,Home Decor,Pillow,3,1337,0.0,UPI,635.94
+ORD0549,2023-03-06,CUST1585,Customer 192,Karnataka,Mumbai,Beauty,Shampoo,4,260,0.05,UPI,150.81
+ORD0550,2023-06-11,CUST7957,Customer 206,Karnataka,Pune,Clothing,T-shirt,4,892,0.1,Credit Card,805.18
+ORD0551,2023-12-06,CUST9320,Customer 239,Tamil Nadu,Pune,Groceries,Rice,1,684,0.2,Credit Card,169.24
+ORD0552,2024-04-05,CUST4918,Customer 44,Karnataka,Pune,Clothing,Jeans,5,1320,0.1,UPI,2020.57
+ORD0553,2024-07-20,CUST8776,Customer 87,Tamil Nadu,Pune,Home Decor,Lamp,3,384,0.0,Cash on Delivery,205.33
+ORD0554,2024-10-24,CUST7726,Customer 3,Delhi,Pune,Clothing,T-shirt,5,745,0.0,Cash on Delivery,1257.61
+ORD0555,2023-04-13,CUST4081,Customer 71,Delhi,Pune,Electronics,Headphones,5,469,0.2,Credit Card,519.89
+ORD0556,2023-07-10,CUST5078,Customer 170,Karnataka,Bengaluru,Home Decor,Lamp,4,1432,0.0,UPI,1084.53
+ORD0557,2023-05-10,CUST5734,Customer 292,Delhi,Ahmedabad,Clothing,Hoodie,1,1717,0.1,Cash on Delivery,479.33
+ORD0558,2024-12-15,CUST3121,Customer 25,Tamil Nadu,Delhi,Electronics,Laptop Bag,4,1735,0.1,UPI,1656.17
+ORD0559,2023-05-10,CUST6471,Customer 137,Gujarat,Mumbai,Electronics,Headphones,1,856,0.2,UPI,227.47
+ORD0560,2024-11-25,CUST1924,Customer 152,Delhi,Ahmedabad,Beauty,Soap,2,1938,0.0,UPI,1005.18
+ORD0561,2023-03-14,CUST4085,Customer 157,Gujarat,Pune,Groceries,Oil,4,300,0.0,Cash on Delivery,258.68
+ORD0562,2023-06-04,CUST8950,Customer 247,Karnataka,Pune,Home Decor,Curtain,3,1843,0.0,Credit Card,1176.62
+ORD0563,2024-04-24,CUST2716,Customer 131,Delhi,Mumbai,Electronics,Smartphone,2,1909,0.2,Credit Card,839.5
+ORD0564,2024-10-04,CUST6994,Customer 49,Delhi,Delhi,Clothing,Shirt,4,787,0.0,UPI,668.76
+ORD0565,2024-06-20,CUST8433,Customer 118,Delhi,Ahmedabad,Home Decor,Curtain,5,1021,0.05,Cash on Delivery,1160.02
+ORD0566,2024-10-27,CUST5185,Customer 199,Maharashtra,Pune,Home Decor,Pillow,4,1559,0.1,UPI,1683.01
+ORD0567,2024-04-03,CUST2537,Customer 108,Maharashtra,Bengaluru,Beauty,Shampoo,3,1659,0.2,Credit Card,1166.71
+ORD0568,2023-10-09,CUST8067,Customer 66,Delhi,Mumbai,Home Decor,Lamp,5,1813,0.2,Cash on Delivery,2075.05
+ORD0569,2024-08-18,CUST2299,Customer 187,Karnataka,Bengaluru,Beauty,Perfume,1,1477,0.2,Credit Card,307.37
+ORD0570,2023-05-14,CUST2996,Customer 192,Gujarat,Chennai,Home Decor,Pillow,3,873,0.2,Credit Card,586.01
+ORD0571,2023-03-12,CUST5575,Customer 48,Karnataka,Chennai,Home Decor,Curtain,3,1469,0.05,Cash on Delivery,900.82
+ORD0572,2024-06-06,CUST1142,Customer 192,Karnataka,Pune,Beauty,Perfume,5,1015,0.1,UPI,1459.36
+ORD0573,2024-06-12,CUST5500,Customer 149,Maharashtra,Delhi,Beauty,Cream,1,1494,0.1,Credit Card,254.53
+ORD0574,2023-01-14,CUST4723,Customer 294,Gujarat,Chennai,Groceries,Sugar,5,746,0.1,Credit Card,1143.47
+ORD0575,2024-05-30,CUST6204,Customer 214,Maharashtra,Bengaluru,Electronics,Smartphone,2,1880,0.1,Credit Card,712.52
+ORD0576,2024-01-27,CUST5732,Customer 267,Maharashtra,Bengaluru,Beauty,Perfume,2,1235,0.0,UPI,726.74
+ORD0577,2024-06-05,CUST6127,Customer 292,Tamil Nadu,Pune,Groceries,Sugar,2,1874,0.2,UPI,761.18
+ORD0578,2023-01-20,CUST7998,Customer 135,Maharashtra,Mumbai,Groceries,Rice,5,435,0.05,Credit Card,338.75
+ORD0579,2024-10-18,CUST9433,Customer 294,Karnataka,Pune,Beauty,Shampoo,4,1598,0.05,UPI,925.44
+ORD0580,2023-12-18,CUST6935,Customer 298,Karnataka,Pune,Beauty,Cream,1,1666,0.05,Credit Card,261.11
+ORD0581,2023-02-26,CUST9371,Customer 232,Tamil Nadu,Mumbai,Electronics,Charger,2,743,0.05,UPI,374.61
+ORD0582,2024-03-10,CUST8164,Customer 246,Delhi,Chennai,Groceries,Oil,1,428,0.05,Credit Card,111.14
+ORD0583,2023-06-26,CUST1138,Customer 194,Delhi,Pune,Beauty,Soap,4,508,0.05,UPI,445.63
+ORD0584,2023-10-02,CUST4381,Customer 208,Maharashtra,Bengaluru,Beauty,Shampoo,1,1265,0.1,Credit Card,326.79
+ORD0585,2024-02-18,CUST6378,Customer 90,Karnataka,Pune,Beauty,Cream,2,256,0.2,Credit Card,111.44
+ORD0586,2024-04-29,CUST6092,Customer 282,Delhi,Bengaluru,Home Decor,Pillow,3,1331,0.2,Cash on Delivery,819.57
+ORD0587,2023-06-18,CUST6812,Customer 178,Delhi,Bengaluru,Home Decor,Lamp,5,1620,0.0,Cash on Delivery,1525.97
+ORD0588,2024-02-25,CUST4734,Customer 221,Tamil Nadu,Ahmedabad,Home Decor,Lamp,1,1099,0.1,UPI,286.01
+ORD0589,2023-07-08,CUST9446,Customer 68,Tamil Nadu,Pune,Electronics,Laptop Bag,5,862,0.1,UPI,739.75
+ORD0590,2024-06-04,CUST4908,Customer 244,Gujarat,Delhi,Home Decor,Curtain,2,556,0.2,UPI,290.94
+ORD0591,2024-07-23,CUST3637,Customer 75,Delhi,Chennai,Groceries,Oil,2,814,0.05,UPI,382.97
+ORD0592,2024-08-08,CUST7520,Customer 143,Tamil Nadu,Ahmedabad,Electronics,Laptop Bag,1,1423,0.0,Cash on Delivery,477.96
+ORD0593,2023-10-08,CUST5310,Customer 98,Gujarat,Ahmedabad,Clothing,Jeans,4,1213,0.2,Cash on Delivery,1295.31
+ORD0594,2023-03-04,CUST9417,Customer 105,Gujarat,Ahmedabad,Electronics,Headphones,5,857,0.1,UPI,1309.43
+ORD0595,2023-03-10,CUST3793,Customer 1,Delhi,Mumbai,Beauty,Soap,4,881,0.2,Cash on Delivery,455.84
+ORD0596,2023-03-31,CUST6565,Customer 294,Gujarat,Mumbai,Clothing,Hoodie,3,1909,0.05,Cash on Delivery,1549.54
+ORD0597,2024-01-17,CUST6287,Customer 48,Karnataka,Delhi,Electronics,Charger,2,1784,0.2,Credit Card,502.98
+ORD0598,2024-06-22,CUST8619,Customer 195,Maharashtra,Chennai,Electronics,Charger,2,1303,0.0,Credit Card,806.72
+ORD0599,2024-12-08,CUST8211,Customer 186,Tamil Nadu,Bengaluru,Electronics,Smartphone,4,1016,0.2,Cash on Delivery,845.13
+ORD0600,2023-02-06,CUST5428,Customer 45,Delhi,Chennai,Home Decor,Curtain,5,1116,0.1,Credit Card,1258.26
+ORD0601,2023-01-07,CUST7571,Customer 117,Gujarat,Delhi,Home Decor,Curtain,4,1019,0.1,Credit Card,896.28
+ORD0602,2023-08-19,CUST1452,Customer 10,Karnataka,Bengaluru,Groceries,Rice,2,1191,0.05,Cash on Delivery,488.44
+ORD0603,2023-03-26,CUST8892,Customer 49,Maharashtra,Mumbai,Beauty,Shampoo,1,803,0.0,UPI,165.71
+ORD0604,2024-07-28,CUST4555,Customer 161,Tamil Nadu,Chennai,Groceries,Rice,4,1668,0.2,UPI,1257.91
+ORD0605,2023-09-19,CUST5992,Customer 71,Delhi,Delhi,Beauty,Perfume,1,1601,0.2,UPI,291.82
+ORD0606,2023-06-05,CUST2812,Customer 18,Maharashtra,Ahmedabad,Home Decor,Clock,4,1115,0.05,Cash on Delivery,871.72
+ORD0607,2024-07-05,CUST5332,Customer 55,Gujarat,Bengaluru,Electronics,Headphones,5,1610,0.05,UPI,2032.0
+ORD0608,2023-07-20,CUST1848,Customer 275,Karnataka,Chennai,Groceries,Rice,3,572,0.0,Cash on Delivery,376.56
+ORD0609,2023-09-15,CUST1574,Customer 62,Gujarat,Delhi,Groceries,Oil,3,987,0.0,UPI,452.56
+ORD0610,2023-03-22,CUST6670,Customer 36,Tamil Nadu,Bengaluru,Beauty,Perfume,2,1596,0.05,Credit Card,781.28
+ORD0611,2023-07-15,CUST9498,Customer 152,Tamil Nadu,Pune,Electronics,Headphones,4,395,0.2,Credit Card,204.53
+ORD0612,2024-12-15,CUST6398,Customer 209,Maharashtra,Bengaluru,Electronics,Laptop Bag,4,1433,0.0,UPI,1836.36
+ORD0613,2023-12-31,CUST2099,Customer 148,Maharashtra,Ahmedabad,Home Decor,Curtain,4,618,0.05,UPI,726.43
+ORD0614,2023-04-13,CUST3939,Customer 146,Karnataka,Bengaluru,Beauty,Cream,2,1270,0.1,Credit Card,347.05
+ORD0615,2024-04-23,CUST2789,Customer 162,Gujarat,Pune,Clothing,T-shirt,1,1188,0.05,Credit Card,365.21
+ORD0616,2023-06-28,CUST3594,Customer 82,Tamil Nadu,Chennai,Clothing,T-shirt,1,912,0.05,Credit Card,151.52
+ORD0617,2023-07-13,CUST7378,Customer 206,Gujarat,Ahmedabad,Home Decor,Clock,4,1159,0.0,Credit Card,1519.69
+ORD0618,2023-05-20,CUST7276,Customer 108,Delhi,Pune,Home Decor,Clock,1,200,0.1,Credit Card,38.36
+ORD0619,2023-04-18,CUST3064,Customer 196,Maharashtra,Delhi,Home Decor,Curtain,2,649,0.05,Cash on Delivery,313.82
+ORD0620,2024-02-22,CUST3603,Customer 271,Delhi,Ahmedabad,Groceries,Oil,2,1709,0.0,Credit Card,1018.28
+ORD0621,2023-04-03,CUST9879,Customer 145,Tamil Nadu,Pune,Clothing,T-shirt,2,1786,0.1,Credit Card,526.54
+ORD0622,2024-12-31,CUST4557,Customer 4,Karnataka,Delhi,Electronics,Charger,3,524,0.2,Cash on Delivery,365.72
+ORD0623,2024-04-23,CUST4127,Customer 108,Maharashtra,Ahmedabad,Home Decor,Lamp,5,1391,0.2,Credit Card,1187.25
+ORD0624,2024-08-11,CUST9257,Customer 171,Karnataka,Pune,Beauty,Perfume,1,1643,0.2,Credit Card,258.25
+ORD0625,2024-12-28,CUST2036,Customer 297,Maharashtra,Ahmedabad,Clothing,T-shirt,3,426,0.2,UPI,244.62
+ORD0626,2023-12-02,CUST1639,Customer 173,Karnataka,Delhi,Home Decor,Lamp,2,552,0.0,UPI,331.6
+ORD0627,2023-06-11,CUST8746,Customer 200,Karnataka,Ahmedabad,Groceries,Biscuits,5,383,0.05,Cash on Delivery,502.74
+ORD0628,2024-04-08,CUST7539,Customer 199,Maharashtra,Ahmedabad,Beauty,Soap,1,646,0.2,Cash on Delivery,144.96
+ORD0629,2023-08-02,CUST2875,Customer 89,Gujarat,Mumbai,Beauty,Perfume,3,949,0.05,UPI,568.95
+ORD0630,2023-05-13,CUST3833,Customer 166,Tamil Nadu,Ahmedabad,Beauty,Cream,4,1512,0.05,Credit Card,1788.92
+ORD0631,2023-10-27,CUST9273,Customer 87,Maharashtra,Chennai,Clothing,T-shirt,2,1814,0.05,Credit Card,814.78
+ORD0632,2024-04-08,CUST6956,Customer 92,Tamil Nadu,Ahmedabad,Clothing,Jeans,4,713,0.05,UPI,767.81
+ORD0633,2024-06-02,CUST1564,Customer 187,Tamil Nadu,Bengaluru,Clothing,Jeans,2,692,0.1,Credit Card,241.61
+ORD0634,2024-07-29,CUST9540,Customer 182,Tamil Nadu,Pune,Beauty,Perfume,2,759,0.1,Cash on Delivery,361.27
+ORD0635,2024-06-06,CUST7240,Customer 203,Karnataka,Mumbai,Home Decor,Pillow,3,1215,0.2,UPI,789.01
+ORD0636,2024-03-22,CUST3658,Customer 291,Gujarat,Mumbai,Groceries,Biscuits,4,1334,0.05,UPI,1651.87
+ORD0637,2023-05-06,CUST4007,Customer 69,Maharashtra,Pune,Clothing,Jeans,4,902,0.1,Credit Card,550.09
+ORD0638,2024-11-06,CUST1501,Customer 85,Maharashtra,Chennai,Home Decor,Pillow,5,1638,0.05,UPI,1595.27
+ORD0639,2023-12-12,CUST8397,Customer 255,Gujarat,Pune,Clothing,Jeans,5,1205,0.05,UPI,1639.87
+ORD0640,2023-02-16,CUST5958,Customer 13,Karnataka,Ahmedabad,Clothing,Hoodie,1,1879,0.0,Credit Card,334.35
+ORD0641,2023-06-23,CUST6336,Customer 264,Maharashtra,Ahmedabad,Clothing,Jeans,2,1921,0.05,Cash on Delivery,855.03
+ORD0642,2023-09-05,CUST3311,Customer 58,Delhi,Mumbai,Beauty,Shampoo,3,1213,0.1,UPI,507.63
+ORD0643,2023-03-25,CUST8532,Customer 37,Maharashtra,Ahmedabad,Electronics,Laptop Bag,2,1617,0.0,Credit Card,955.62
+ORD0644,2024-05-25,CUST5698,Customer 216,Tamil Nadu,Pune,Home Decor,Curtain,5,424,0.0,UPI,466.24
+ORD0645,2023-08-09,CUST7697,Customer 135,Delhi,Bengaluru,Clothing,Shirt,3,1187,0.2,UPI,835.05
+ORD0646,2023-05-09,CUST7985,Customer 153,Tamil Nadu,Delhi,Clothing,Jeans,2,736,0.0,Credit Card,473.57
+ORD0647,2024-08-21,CUST3251,Customer 150,Tamil Nadu,Bengaluru,Beauty,Soap,5,1801,0.05,Cash on Delivery,2486.48
+ORD0648,2024-09-19,CUST4549,Customer 105,Karnataka,Chennai,Home Decor,Lamp,1,1432,0.1,Cash on Delivery,440.25
+ORD0649,2024-04-02,CUST4618,Customer 24,Gujarat,Bengaluru,Clothing,Hoodie,4,1044,0.0,Cash on Delivery,638.63
+ORD0650,2024-08-02,CUST2322,Customer 75,Delhi,Pune,Electronics,Laptop Bag,1,904,0.1,Cash on Delivery,202.33
+ORD0651,2023-09-16,CUST4787,Customer 7,Maharashtra,Pune,Electronics,Smartphone,2,1438,0.1,UPI,518.88
+ORD0652,2024-10-05,CUST9867,Customer 288,Gujarat,Ahmedabad,Beauty,Shampoo,2,1200,0.1,UPI,396.9
+ORD0653,2024-03-14,CUST2752,Customer 80,Delhi,Delhi,Home Decor,Curtain,3,1335,0.05,UPI,641.49
+ORD0654,2024-01-07,CUST6795,Customer 68,Gujarat,Bengaluru,Beauty,Shampoo,3,1757,0.2,UPI,1175.16
+ORD0655,2024-09-03,CUST3431,Customer 103,Tamil Nadu,Chennai,Groceries,Oil,1,1113,0.05,Credit Card,207.11
+ORD0656,2024-07-14,CUST1100,Customer 2,Gujarat,Chennai,Beauty,Cream,4,870,0.1,Credit Card,991.21
+ORD0657,2024-05-28,CUST1754,Customer 297,Karnataka,Delhi,Clothing,Shirt,3,1070,0.05,UPI,606.01
+ORD0658,2023-01-12,CUST9697,Customer 106,Delhi,Delhi,Groceries,Sugar,4,339,0.0,UPI,320.05
+ORD0659,2023-04-10,CUST8281,Customer 143,Delhi,Ahmedabad,Beauty,Cream,2,1872,0.0,Cash on Delivery,750.92
+ORD0660,2023-08-19,CUST1719,Customer 75,Karnataka,Delhi,Beauty,Shampoo,2,953,0.0,Credit Card,322.33
+ORD0661,2024-06-15,CUST7713,Customer 112,Maharashtra,Mumbai,Groceries,Sugar,5,1073,0.05,Credit Card,1694.78
+ORD0662,2023-04-08,CUST7379,Customer 69,Tamil Nadu,Mumbai,Beauty,Shampoo,1,1315,0.2,Credit Card,350.49
+ORD0663,2024-10-04,CUST5569,Customer 185,Tamil Nadu,Chennai,Electronics,Smartphone,3,741,0.05,UPI,431.54
+ORD0664,2023-05-21,CUST6419,Customer 163,Maharashtra,Pune,Groceries,Oil,3,629,0.2,UPI,352.09
+ORD0665,2024-09-13,CUST9249,Customer 106,Gujarat,Pune,Electronics,Charger,4,246,0.05,Cash on Delivery,185.78
+ORD0666,2024-07-20,CUST4906,Customer 3,Delhi,Mumbai,Electronics,Smartphone,5,485,0.1,Credit Card,383.16
+ORD0667,2024-12-16,CUST3032,Customer 11,Delhi,Pune,Beauty,Soap,3,387,0.05,Credit Card,361.99
+ORD0668,2024-11-29,CUST3013,Customer 114,Karnataka,Ahmedabad,Beauty,Shampoo,4,1781,0.2,Credit Card,1850.57
+ORD0669,2023-10-02,CUST5868,Customer 207,Karnataka,Delhi,Groceries,Rice,1,1338,0.2,Credit Card,314.14
+ORD0670,2023-06-18,CUST8968,Customer 229,Karnataka,Mumbai,Clothing,Jeans,3,881,0.0,Cash on Delivery,619.88
+ORD0671,2024-11-19,CUST6401,Customer 133,Tamil Nadu,Bengaluru,Groceries,Sugar,4,1295,0.0,UPI,1233.03
+ORD0672,2023-05-24,CUST7694,Customer 154,Maharashtra,Mumbai,Clothing,T-shirt,1,1970,0.05,Credit Card,357.18
+ORD0673,2024-02-29,CUST2095,Customer 273,Tamil Nadu,Pune,Groceries,Rice,2,877,0.05,Credit Card,489.46
+ORD0674,2024-10-24,CUST1943,Customer 104,Delhi,Mumbai,Groceries,Biscuits,4,1322,0.05,UPI,1299.04
+ORD0675,2023-03-20,CUST4123,Customer 269,Delhi,Delhi,Beauty,Cream,2,1724,0.1,Credit Card,602.31
+ORD0676,2024-03-07,CUST9895,Customer 210,Maharashtra,Bengaluru,Groceries,Biscuits,3,1222,0.05,UPI,1208.2
+ORD0677,2023-04-01,CUST4675,Customer 63,Tamil Nadu,Pune,Clothing,T-shirt,1,805,0.2,UPI,196.65
+ORD0678,2023-04-09,CUST1355,Customer 139,Delhi,Chennai,Electronics,Smartphone,5,1396,0.2,UPI,1941.01
+ORD0679,2024-12-20,CUST6791,Customer 64,Karnataka,Pune,Clothing,Hoodie,4,550,0.05,Cash on Delivery,700.18
+ORD0680,2024-05-20,CUST2460,Customer 294,Tamil Nadu,Mumbai,Groceries,Oil,3,1455,0.05,UPI,1434.99
+ORD0681,2024-07-09,CUST9547,Customer 28,Tamil Nadu,Mumbai,Beauty,Perfume,2,578,0.05,Cash on Delivery,278.99
+ORD0682,2024-12-16,CUST6057,Customer 248,Tamil Nadu,Mumbai,Clothing,Hoodie,2,1979,0.1,UPI,1122.47
+ORD0683,2024-11-03,CUST7566,Customer 94,Tamil Nadu,Delhi,Clothing,Shirt,3,1570,0.0,Cash on Delivery,1061.64
+ORD0684,2023-01-02,CUST1870,Customer 101,Tamil Nadu,Pune,Clothing,T-shirt,1,1353,0.2,UPI,285.07
+ORD0685,2023-02-07,CUST1659,Customer 25,Delhi,Mumbai,Home Decor,Lamp,5,1060,0.2,Credit Card,1059.12
+ORD0686,2023-01-13,CUST8727,Customer 291,Gujarat,Chennai,Electronics,Headphones,3,936,0.0,UPI,518.01
+ORD0687,2024-04-12,CUST2438,Customer 69,Maharashtra,Pune,Groceries,Oil,5,896,0.1,Credit Card,701.12
+ORD0688,2024-12-28,CUST5975,Customer 172,Maharashtra,Pune,Home Decor,Curtain,5,750,0.0,Cash on Delivery,636.93
+ORD0689,2023-11-21,CUST4401,Customer 280,Delhi,Mumbai,Groceries,Rice,4,706,0.2,Credit Card,695.34
+ORD0690,2024-04-18,CUST6660,Customer 151,Tamil Nadu,Chennai,Home Decor,Pillow,5,259,0.1,Cash on Delivery,274.49
+ORD0691,2023-07-05,CUST5700,Customer 276,Karnataka,Ahmedabad,Electronics,Headphones,1,600,0.1,Cash on Delivery,136.46
+ORD0692,2024-12-01,CUST8799,Customer 101,Delhi,Bengaluru,Beauty,Soap,1,1966,0.2,UPI,362.85
+ORD0693,2024-02-04,CUST8385,Customer 253,Maharashtra,Delhi,Home Decor,Pillow,2,543,0.0,Credit Card,185.98
+ORD0694,2023-10-15,CUST7952,Customer 134,Karnataka,Bengaluru,Home Decor,Clock,1,220,0.05,UPI,45.09
+ORD0695,2023-04-13,CUST8734,Customer 257,Tamil Nadu,Chennai,Groceries,Rice,4,636,0.0,UPI,502.47
+ORD0696,2023-07-01,CUST4782,Customer 255,Delhi,Delhi,Groceries,Biscuits,5,1249,0.0,Cash on Delivery,1184.3
+ORD0697,2024-05-10,CUST6822,Customer 25,Karnataka,Bengaluru,Beauty,Soap,1,431,0.2,Credit Card,57.37
+ORD0698,2023-07-01,CUST6993,Customer 86,Karnataka,Chennai,Groceries,Rice,2,336,0.2,UPI,129.41
+ORD0699,2024-08-21,CUST7546,Customer 15,Karnataka,Ahmedabad,Home Decor,Clock,3,632,0.2,UPI,410.4
+ORD0700,2023-09-01,CUST9405,Customer 166,Karnataka,Pune,Beauty,Soap,3,1587,0.05,Cash on Delivery,1239.79
+ORD0701,2023-08-17,CUST4345,Customer 50,Delhi,Delhi,Clothing,Hoodie,2,322,0.2,UPI,167.54
+ORD0702,2023-03-19,CUST8095,Customer 75,Maharashtra,Ahmedabad,Clothing,T-shirt,4,1683,0.1,Credit Card,969.8
+ORD0703,2024-01-07,CUST7123,Customer 151,Tamil Nadu,Ahmedabad,Clothing,T-shirt,3,759,0.05,Credit Card,537.97
+ORD0704,2024-10-19,CUST8111,Customer 243,Maharashtra,Mumbai,Electronics,Headphones,3,1642,0.0,Cash on Delivery,1378.83
+ORD0705,2024-02-03,CUST9598,Customer 135,Gujarat,Chennai,Groceries,Oil,3,595,0.2,Credit Card,377.47
+ORD0706,2023-08-17,CUST4959,Customer 280,Delhi,Delhi,Electronics,Charger,3,1567,0.05,Credit Card,899.29
+ORD0707,2024-01-15,CUST7854,Customer 162,Karnataka,Chennai,Electronics,Smartphone,4,1043,0.0,Credit Card,1422.7
+ORD0708,2023-07-25,CUST3513,Customer 220,Delhi,Chennai,Clothing,Hoodie,5,1265,0.2,UPI,1248.5
+ORD0709,2023-11-01,CUST5381,Customer 103,Delhi,Mumbai,Beauty,Shampoo,4,1698,0.2,UPI,1654.9
+ORD0710,2024-04-06,CUST5581,Customer 132,Delhi,Pune,Groceries,Biscuits,4,1413,0.1,UPI,870.66
+ORD0711,2023-09-07,CUST7035,Customer 83,Gujarat,Delhi,Home Decor,Lamp,3,1075,0.1,Cash on Delivery,658.15
+ORD0712,2023-04-25,CUST1209,Customer 41,Tamil Nadu,Pune,Beauty,Perfume,2,602,0.05,UPI,286.02
+ORD0713,2023-12-01,CUST6193,Customer 191,Gujarat,Delhi,Home Decor,Pillow,4,992,0.1,Cash on Delivery,1172.69
+ORD0714,2023-12-05,CUST6917,Customer 22,Karnataka,Ahmedabad,Home Decor,Lamp,3,1941,0.0,UPI,1901.59
+ORD0715,2023-08-09,CUST1378,Customer 222,Delhi,Mumbai,Groceries,Biscuits,2,915,0.05,Cash on Delivery,561.03
+ORD0716,2024-12-12,CUST6988,Customer 246,Gujarat,Mumbai,Groceries,Rice,1,1937,0.05,Cash on Delivery,629.92
+ORD0717,2024-05-14,CUST9701,Customer 40,Tamil Nadu,Mumbai,Home Decor,Clock,5,1703,0.1,Credit Card,1245.23
+ORD0718,2023-07-18,CUST8630,Customer 84,Delhi,Mumbai,Electronics,Smartphone,2,336,0.2,Cash on Delivery,160.7
+ORD0719,2023-01-08,CUST9998,Customer 235,Karnataka,Mumbai,Home Decor,Pillow,2,1525,0.05,Credit Card,888.33
+ORD0720,2023-09-30,CUST4232,Customer 175,Gujarat,Chennai,Beauty,Perfume,4,1769,0.2,UPI,1529.65
+ORD0721,2024-11-28,CUST6316,Customer 266,Karnataka,Mumbai,Electronics,Headphones,4,1336,0.0,UPI,1402.21
+ORD0722,2024-01-04,CUST9424,Customer 195,Karnataka,Bengaluru,Electronics,Charger,1,438,0.05,Credit Card,99.23
+ORD0723,2023-06-13,CUST4622,Customer 53,Delhi,Chennai,Electronics,Headphones,1,416,0.1,Cash on Delivery,85.09
+ORD0724,2023-06-29,CUST6534,Customer 235,Gujarat,Bengaluru,Electronics,Charger,4,1476,0.05,Cash on Delivery,1587.09
+ORD0725,2023-04-13,CUST9587,Customer 7,Karnataka,Pune,Beauty,Perfume,1,1793,0.0,Credit Card,627.31
+ORD0726,2024-03-14,CUST6494,Customer 292,Maharashtra,Bengaluru,Groceries,Sugar,1,432,0.05,UPI,139.13
+ORD0727,2024-10-16,CUST9414,Customer 232,Maharashtra,Bengaluru,Groceries,Rice,5,825,0.2,Credit Card,1023.53
+ORD0728,2023-09-27,CUST8002,Customer 153,Tamil Nadu,Ahmedabad,Home Decor,Lamp,1,1246,0.2,UPI,270.41
+ORD0729,2024-10-29,CUST4370,Customer 99,Karnataka,Chennai,Beauty,Shampoo,2,562,0.05,UPI,288.42
+ORD0730,2023-02-21,CUST3650,Customer 289,Maharashtra,Pune,Beauty,Perfume,2,797,0.05,Credit Card,423.62
+ORD0731,2024-09-26,CUST9445,Customer 114,Gujarat,Mumbai,Clothing,Hoodie,4,1585,0.0,Cash on Delivery,1818.58
+ORD0732,2024-03-19,CUST4403,Customer 79,Maharashtra,Pune,Beauty,Cream,1,811,0.05,UPI,147.66
+ORD0733,2023-08-14,CUST9183,Customer 182,Maharashtra,Chennai,Groceries,Biscuits,2,435,0.1,UPI,138.95
+ORD0734,2023-03-27,CUST7558,Customer 184,Maharashtra,Bengaluru,Groceries,Sugar,1,295,0.05,UPI,75.15
+ORD0735,2024-11-29,CUST3268,Customer 46,Karnataka,Bengaluru,Home Decor,Pillow,3,332,0.1,Cash on Delivery,155.03
+ORD0736,2024-09-26,CUST2963,Customer 34,Delhi,Pune,Beauty,Soap,2,1554,0.05,UPI,728.83
+ORD0737,2023-04-23,CUST2067,Customer 128,Gujarat,Chennai,Electronics,Headphones,3,1218,0.05,UPI,996.4
+ORD0738,2023-04-18,CUST5538,Customer 177,Gujarat,Pune,Clothing,Jeans,3,1051,0.2,Cash on Delivery,406.29
+ORD0739,2023-07-23,CUST5647,Customer 275,Karnataka,Pune,Clothing,Shirt,2,1195,0.0,UPI,655.82
+ORD0740,2023-08-28,CUST3739,Customer 171,Maharashtra,Mumbai,Clothing,Hoodie,3,502,0.05,UPI,246.76
+ORD0741,2024-09-19,CUST9728,Customer 127,Delhi,Mumbai,Groceries,Biscuits,1,248,0.2,UPI,47.37
+ORD0742,2024-03-22,CUST4523,Customer 228,Gujarat,Mumbai,Electronics,Laptop Bag,2,210,0.0,UPI,70.12
+ORD0743,2023-10-17,CUST8869,Customer 31,Delhi,Mumbai,Clothing,Jeans,5,543,0.2,Cash on Delivery,705.51
+ORD0744,2024-02-27,CUST8756,Customer 293,Maharashtra,Ahmedabad,Groceries,Biscuits,4,228,0.05,Cash on Delivery,296.27
+ORD0745,2024-07-26,CUST8705,Customer 71,Maharashtra,Delhi,Beauty,Cream,2,1520,0.05,Credit Card,499.92
+ORD0746,2024-11-28,CUST2349,Customer 113,Maharashtra,Ahmedabad,Clothing,Shirt,3,558,0.05,UPI,431.6
+ORD0747,2024-09-18,CUST4845,Customer 18,Delhi,Bengaluru,Home Decor,Pillow,1,1376,0.0,Cash on Delivery,360.27
+ORD0748,2024-12-07,CUST3513,Customer 206,Karnataka,Mumbai,Electronics,Headphones,5,1068,0.2,Cash on Delivery,892.51
+ORD0749,2024-05-23,CUST8320,Customer 2,Tamil Nadu,Bengaluru,Beauty,Shampoo,5,1121,0.0,Credit Card,1506.23
+ORD0750,2024-10-27,CUST8846,Customer 161,Gujarat,Mumbai,Home Decor,Lamp,5,1341,0.0,UPI,1463.23
+ORD0751,2023-10-02,CUST8233,Customer 79,Gujarat,Pune,Home Decor,Lamp,4,719,0.2,Credit Card,576.6
+ORD0752,2024-02-15,CUST9002,Customer 239,Karnataka,Mumbai,Electronics,Laptop Bag,5,1512,0.0,Credit Card,1422.89
+ORD0753,2024-02-05,CUST3855,Customer 177,Tamil Nadu,Mumbai,Clothing,Hoodie,4,1379,0.2,Cash on Delivery,1474.54
+ORD0754,2023-11-26,CUST5987,Customer 216,Gujarat,Delhi,Home Decor,Curtain,3,1920,0.0,Cash on Delivery,1410.88
+ORD0755,2024-01-25,CUST9625,Customer 22,Maharashtra,Mumbai,Clothing,Jeans,1,948,0.0,UPI,149.09
+ORD0756,2023-09-03,CUST4264,Customer 36,Delhi,Bengaluru,Groceries,Sugar,3,1951,0.2,Credit Card,1193.54
+ORD0757,2023-10-19,CUST2587,Customer 287,Maharashtra,Ahmedabad,Clothing,Hoodie,2,1209,0.1,Credit Card,517.11
+ORD0758,2024-11-30,CUST3433,Customer 230,Karnataka,Delhi,Electronics,Smartphone,1,327,0.1,Cash on Delivery,78.72
+ORD0759,2024-02-26,CUST8982,Customer 57,Delhi,Pune,Clothing,Hoodie,3,1844,0.2,Cash on Delivery,1305.01
+ORD0760,2023-03-25,CUST8833,Customer 94,Delhi,Ahmedabad,Groceries,Oil,4,1840,0.2,Cash on Delivery,1388.29
+ORD0761,2024-07-26,CUST5566,Customer 149,Gujarat,Bengaluru,Electronics,Smartphone,1,666,0.05,Credit Card,144.01
+ORD0762,2023-09-27,CUST4363,Customer 203,Gujarat,Ahmedabad,Home Decor,Pillow,1,1509,0.05,UPI,314.13
+ORD0763,2024-06-24,CUST8332,Customer 186,Delhi,Bengaluru,Groceries,Oil,1,1720,0.1,UPI,499.82
+ORD0764,2024-12-16,CUST7574,Customer 42,Delhi,Pune,Clothing,T-shirt,4,1361,0.1,Cash on Delivery,1521.85
+ORD0765,2024-10-31,CUST9934,Customer 91,Maharashtra,Chennai,Electronics,Charger,5,833,0.05,Credit Card,826.72
+ORD0766,2023-06-17,CUST1556,Customer 105,Delhi,Bengaluru,Electronics,Headphones,1,539,0.0,Credit Card,107.21
+ORD0767,2023-08-27,CUST3511,Customer 272,Maharashtra,Delhi,Clothing,T-shirt,1,845,0.1,UPI,221.36
+ORD0768,2023-08-02,CUST9572,Customer 161,Delhi,Chennai,Clothing,Jeans,5,1348,0.0,Cash on Delivery,1786.19
+ORD0769,2024-05-18,CUST2667,Customer 37,Gujarat,Ahmedabad,Home Decor,Curtain,2,1586,0.0,UPI,740.11
+ORD0770,2024-04-11,CUST2224,Customer 28,Karnataka,Mumbai,Beauty,Soap,5,905,0.2,Cash on Delivery,666.87
+ORD0771,2024-09-14,CUST1440,Customer 105,Delhi,Chennai,Beauty,Soap,1,1265,0.0,UPI,299.52
+ORD0772,2023-07-10,CUST3107,Customer 225,Karnataka,Bengaluru,Home Decor,Lamp,3,1840,0.05,Credit Card,1386.84
+ORD0773,2023-01-14,CUST3211,Customer 245,Delhi,Bengaluru,Beauty,Perfume,2,368,0.05,UPI,231.54
+ORD0774,2024-03-01,CUST2124,Customer 29,Delhi,Pune,Home Decor,Curtain,4,1175,0.1,Credit Card,877.52
+ORD0775,2023-11-13,CUST7035,Customer 138,Maharashtra,Pune,Groceries,Rice,5,1288,0.1,Credit Card,1235.63
+ORD0776,2023-11-29,CUST9974,Customer 241,Gujarat,Ahmedabad,Electronics,Smartphone,5,1489,0.05,Cash on Delivery,1237.67
+ORD0777,2023-04-09,CUST7460,Customer 123,Maharashtra,Mumbai,Electronics,Headphones,2,1108,0.05,Credit Card,362.32
+ORD0778,2023-01-20,CUST1968,Customer 130,Tamil Nadu,Mumbai,Beauty,Cream,3,908,0.05,Credit Card,415.12
+ORD0779,2024-04-02,CUST1801,Customer 43,Delhi,Chennai,Groceries,Rice,3,464,0.05,Credit Card,325.9
+ORD0780,2023-01-01,CUST1583,Customer 15,Tamil Nadu,Bengaluru,Groceries,Oil,2,1767,0.05,Credit Card,587.15
+ORD0781,2023-10-26,CUST4347,Customer 277,Delhi,Mumbai,Beauty,Soap,3,1389,0.1,Credit Card,1065.42
+ORD0782,2024-07-07,CUST7902,Customer 68,Tamil Nadu,Ahmedabad,Groceries,Oil,2,1424,0.05,Credit Card,510.61
+ORD0783,2024-04-21,CUST5047,Customer 153,Karnataka,Pune,Home Decor,Pillow,1,474,0.0,Credit Card,128.21
+ORD0784,2023-02-16,CUST7668,Customer 217,Delhi,Pune,Electronics,Laptop Bag,2,1649,0.0,UPI,627.04
+ORD0785,2024-02-20,CUST7837,Customer 297,Delhi,Chennai,Home Decor,Lamp,3,880,0.0,Credit Card,782.94
+ORD0786,2024-03-14,CUST2155,Customer 138,Karnataka,Chennai,Groceries,Sugar,5,304,0.0,Credit Card,290.59
+ORD0787,2023-09-10,CUST8848,Customer 285,Delhi,Bengaluru,Home Decor,Lamp,1,663,0.1,Cash on Delivery,150.37
+ORD0788,2023-07-29,CUST9444,Customer 19,Gujarat,Delhi,Groceries,Rice,2,1327,0.05,Cash on Delivery,782.38
+ORD0789,2024-06-04,CUST2885,Customer 165,Karnataka,Bengaluru,Home Decor,Clock,1,427,0.0,Cash on Delivery,132.47
+ORD0790,2024-11-14,CUST1869,Customer 47,Gujarat,Delhi,Beauty,Perfume,3,1147,0.2,UPI,783.08
+ORD0791,2023-03-14,CUST4587,Customer 76,Maharashtra,Ahmedabad,Home Decor,Curtain,4,1035,0.1,Credit Card,588.38
+ORD0792,2023-03-18,CUST1244,Customer 66,Delhi,Chennai,Groceries,Rice,4,1025,0.1,Credit Card,592.95
+ORD0793,2023-03-25,CUST8310,Customer 33,Maharashtra,Chennai,Beauty,Soap,1,1960,0.05,Credit Card,529.93
+ORD0794,2024-12-21,CUST9234,Customer 264,Gujarat,Delhi,Beauty,Soap,3,1526,0.2,UPI,1128.43
+ORD0795,2024-07-14,CUST8413,Customer 289,Karnataka,Bengaluru,Home Decor,Curtain,3,1212,0.0,Cash on Delivery,1056.35
+ORD0796,2024-04-07,CUST6390,Customer 234,Maharashtra,Chennai,Groceries,Biscuits,4,1733,0.1,Cash on Delivery,1987.13
+ORD0797,2023-03-07,CUST9853,Customer 20,Maharashtra,Mumbai,Beauty,Perfume,1,1787,0.05,Credit Card,299.62
+ORD0798,2024-06-03,CUST1271,Customer 246,Tamil Nadu,Bengaluru,Electronics,Smartphone,1,1566,0.0,UPI,369.4
+ORD0799,2024-12-22,CUST9529,Customer 67,Delhi,Mumbai,Electronics,Smartphone,3,1325,0.05,Cash on Delivery,1267.69
+ORD0800,2024-08-05,CUST3130,Customer 57,Tamil Nadu,Delhi,Electronics,Laptop Bag,1,994,0.1,Cash on Delivery,282.92
